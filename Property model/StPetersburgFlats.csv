@@ -1,0 +1,1553 @@
+Number;Year_Of_Build;Level;Number_Of_Rooms;Distance_To_The_Nearest_MRT-station;Class;Type_Of_Market;Common_Square;Square_Of_Kitchen;Price
+171;1960-1980;last;three and more;60-90 minutes;economy;secondary;54;7;67593
+10812;2000-2010;middle;one;5-15 minutes;economy;secondary;34,7;10,7;149827,1
+10818;1960-1980;middle;one;15-30 minutes;economy;secondary;34;6,1;116176,5
+10819;2010-2020;middle;three and more;30-60 minutes;economy;secondary;95;24,7;126315,8
+10822;1960-1980;middle;two;15-30 minutes;economy;secondary;44,5;6;100000
+10831;2010-2020;middle;two;15-30 minutes;economy;secondary;57,6;13,5;156250
+10833;2010-2020;middle;one;15-30 minutes;economy;secondary;33;9;153030,3
+10834;2010-2020;middle;one;30-60 minutes;economy;primary;47,8;15,5;146443,5
+10837;2010-2020;middle;one;15-30 minutes;comfort;primary;35;10;157142,9
+10840;2000-2010;first;three and more;5-15 minutes;economy;secondary;101,4;10,3;123274,2
+10853;1960-1980;middle;one;5-15 minutes;economy;secondary;40;7;121250
+10854;1960-1980;middle;three and more;15-30 minutes;economy;secondary;60;6,2;99983,3
+10857;1960-1980;middle;two;less than 5 minutes;economy;secondary;52;10;128846,2
+10860;2010-2020;middle;two;15-30 minutes;economy;secondary;53,6;9,9;121268,7
+10864;2010-2020;middle;two;15-30 minutes;economy;primary;60;15;105000
+10865;1960-1980;middle;two;5-15 minutes;economy;secondary;45;6;92666,7
+10869;2010-2020;middle;one;15-30 minutes;economy;secondary;87;33,3;200034,5
+10878;2000-2010;middle;one;5-15 minutes;economy;secondary;39;10,6;141025,6
+10880;2010-2020;middle;one;30-60 minutes;economy;secondary;33,6;10,7;130357,1
+10886;2000-2010;middle;three and more;15-30 minutes;economy;secondary;79;26;150632,9
+10892;1980-2000;middle;one;15-30 minutes;economy;secondary;36;7,6;120833,3
+10896;2010-2020;middle;one;15-30 minutes;economy;secondary;32;15,6;187187,5
+10904;1960-1980;middle;two;15-30 minutes;economy;secondary;48,1;6,1;124740,1
+10905;2010-2020;middle;three and more;less than 5 minutes;economy;secondary;95;11,4;95789,5
+10910;2010-2020;middle;one;15-30 minutes;economy;secondary;33;8,5;154545,5
+10911;2010-2020;middle;two;5-15 minutes;economy;secondary;77;13;179220,8
+10912;2010-2020;middle;one;15-30 minutes;economy;secondary;31;8,4;148387,1
+10917;1960-1980;middle;three and more;less than 5 minutes;economy;secondary;73;7,2;108904,1
+10918;1960-1980;first;one;15-30 minutes;economy;secondary;31,3;5,5;137380,2
+10919;1980-2000;middle;one;15-30 minutes;economy;secondary;38,1;10,1;119422,6
+10920;2010-2020;middle;two;15-30 minutes;economy;secondary;56,8;11,4;105633,8
+10929;2010-2020;middle;one;15-30 minutes;economy;secondary;30;8;156666,7
+10930;2010-2020;middle;two;15-30 minutes;economy;primary;53,8;11,9;88011,2
+10934;1980-2000;first;three and more;less than 5 minutes;economy;secondary;57,7;6,3;110918,5
+10936;2010-2020;middle;one;30-60 minutes;economy;secondary;40;9;112500
+10939;2010-2020;middle;two;15-30 minutes;economy;secondary;63;9,2;125396,8
+10940;2010-2020;middle;one;15-30 minutes;economy;secondary;38;11;101315,8
+10943;2000-2010;middle;three and more;15-30 minutes;economy;secondary;104,1;14,5;136887,6
+10945;2010-2020;last;two;15-30 minutes;economy;secondary;65;11;127692,3
+10949;2010-2020;middle;one;less than 5 minutes;economy;secondary;43;12;151162,8
+10952;2010-2020;middle;two;15-30 minutes;economy;secondary;53,7;14,7;95903,2
+10954;2010-2020;middle;two;5-15 minutes;economy;secondary;62;12;185483,9
+10956;2000-2010;middle;three and more;5-15 minutes;economy;secondary;84,2;14;195962
+10958;1980-2000;middle;two;15-30 minutes;economy;secondary;55,1;10,2;103448,3
+10959;1960-1980;first;one;less than 5 minutes;economy;secondary;45;9;138888,9
+10961;1980-2000;middle;three and more;30-60 minutes;economy;secondary;71;9;105633,8
+10962;2010-2020;first;one;15-30 minutes;economy;secondary;38,6;12;107513
+10965;1960-1980;first;two;15-30 minutes;economy;secondary;44,1;7,1;98639,5
+10966;1960-1980;first;two;15-30 minutes;economy;secondary;42,1;10,5;117791
+10970;1960-1980;last;one;5-15 minutes;economy;secondary;33,5;6,4;135283,6
+10976;2000-2010;last;two;5-15 minutes;economy;secondary;67;10;126716,4
+10981;1980-2000;middle;one;15-30 minutes;economy;secondary;45;18;155533,3
+10987;1980-2000;middle;one;15-30 minutes;economy;secondary;38,3;9,9;125326,4
+10990;2010-2020;middle;three and more;5-15 minutes;comfort;secondary;108;15;138796,3
+10992;2010-2020;middle;one;15-30 minutes;economy;primary;35,6;8,3;140730,3
+10994;1960-1980;middle;two;15-30 minutes;economy;secondary;46;7;131521,7
+10995;2010-2020;middle;one;15-30 minutes;economy;primary;33,4;8,4;135479
+10997;1960-1980;middle;two;5-15 minutes;economy;secondary;41,7;5,5;170263,8
+10998;2010-2020;middle;three and more;less than 5 minutes;economy;secondary;100,1;13;194105,9
+11001;1960-1980;first;one;15-30 minutes;economy;secondary;33;6,5;100000
+11004;2010-2020;middle;one;15-30 minutes;economy;secondary;41,8;10,8;118421,1
+11008;2000-2010;middle;three and more;less than 5 minutes;economy;secondary;105;12;192381
+11013;2010-2020;middle;two;5-15 minutes;business;primary;67,8;17,9;156268,4
+11026;2010-2020;middle;three and more;15-30 minutes;economy;secondary;82,5;14,4;93939,4
+11028;2010-2020;middle;three and more;5-15 minutes;economy;secondary;93;12,2;85914
+11031;2010-2020;middle;two;15-30 minutes;economy;secondary;61;15;119672,1
+11044;2000-2010;middle;three and more;5-15 minutes;economy;secondary;92,4;20,4;194264,1
+11047;1960-1980;middle;two;30-60 minutes;economy;secondary;46,6;6,3;95493,6
+11050;2010-2020;middle;one;15-30 minutes;economy;primary;40,1;10,4;99750,6
+11058;2010-2020;middle;three and more;less than 5 minutes;economy;secondary;93;12;113978,5
+11059;1960-1980;middle;three and more;less than 5 minutes;economy;secondary;71,2;8,7;115870,8
+11064;1980-2000;middle;two;15-30 minutes;economy;secondary;55;10;107272,7
+11065;1980-2000;middle;three and more;15-30 minutes;economy;secondary;57,3;6,2;92495,6
+11067;2010-2020;middle;three and more;less than 5 minutes;economy;primary;118;13;201810
+11070;2010-2020;middle;three and more;30-60 minutes;economy;secondary;69,6;12,1;100170
+11072;2010-2020;middle;one;less than 5 minutes;economy;secondary;39;11;210256,4
+11086;2010-2020;middle;two;15-30 minutes;economy;secondary;58;11;119827,6
+11090;2010-2020;middle;two;5-15 minutes;economy;secondary;54,1;10,9;109981,5
+11094;2010-2020;middle;one;5-15 minutes;economy;secondary;33;10;160606,1
+11095;2000-2010;middle;one;15-30 minutes;economy;secondary;34,2;10;140350,9
+11096;1960-1980;first;one;15-30 minutes;economy;secondary;30;6;76666,7
+11102;1960-1980;middle;three and more;5-15 minutes;economy;secondary;73,9;6,2;82544
+11104;1960-1980;middle;one;5-15 minutes;economy;secondary;32;6;132812,5
+11107;1960-1980;first;three and more;5-15 minutes;economy;secondary;63,1;6,3;85578,4
+11110;1960-1980;last;one;15-30 minutes;economy;secondary;35,2;6,2;113636,4
+11130;2010-2020;middle;one;15-30 minutes;economy;secondary;40,4;15;102722,8
+11133;2010-2020;middle;two;15-30 minutes;economy;secondary;62,4;18;118589,7
+11137;2010-2020;middle;one;less than 5 minutes;economy;secondary;51;15;160196,1
+11139;2010-2020;middle;one;30-60 minutes;economy;secondary;39,5;13,3;129367,1
+11143;1960-1980;middle;two;15-30 minutes;economy;secondary;44,6;6,7;116591,9
+11144;1960-1980;middle;three and more;5-15 minutes;economy;secondary;93,2;9,3;114806,9
+11151;1980-2000;middle;three and more;5-15 minutes;economy;secondary;80;10;100000
+11157;1960-1980;middle;three and more;5-15 minutes;economy;secondary;73,4;6,4;79700,3
+11158;1980-2000;middle;two;15-30 minutes;economy;secondary;42;9;117857,1
+11171;2010-2020;middle;three and more;15-30 minutes;economy;secondary;82;16;95122
+11172;1980-2000;first;three and more;15-30 minutes;economy;secondary;77;8;103636,4
+11173;2010-2020;middle;three and more;15-30 minutes;economy;secondary;104,5;17,3;182583,7
+11176;1960-1980;middle;three and more;15-30 minutes;economy;secondary;67;7;100000
+11184;2000-2010;middle;one;15-30 minutes;economy;secondary;34,8;10,7;135057,5
+11191;1980-2000;middle;two;15-30 minutes;economy;secondary;56;8,4;87410,7
+11197;2010-2020;first;one;15-30 minutes;economy;primary;37,7;12,2;118852,7
+11202;1980-2000;first;three and more;15-30 minutes;economy;secondary;67,5;9;96296,3
+11203;1960-1980;middle;one;30-60 minutes;economy;secondary;34,8;8;100574,7
+11204;1980-2000;middle;two;30-60 minutes;economy;secondary;51,5;9;106796,1
+11207;2010-2020;middle;two;15-30 minutes;economy;secondary;66,8;18;119816
+11208;2000-2010;middle;one;30-60 minutes;economy;secondary;56;14;133928,6
+11229;2000-2010;first;one;15-30 minutes;economy;secondary;44,5;12,3;107865,2
+11230;1960-1980;last;three and more;15-30 minutes;economy;secondary;41;6;101219,5
+11234;2000-2010;middle;three and more;15-30 minutes;economy;primary;112,7;15,6;97604,3
+11242;2010-2020;first;three and more;15-30 minutes;economy;primary;78,9;13,4;108091,5
+11246;1960-1980;middle;two;less than 5 minutes;economy;secondary;46,4;8;119612,1
+11251;2010-2020;middle;two;15-30 minutes;economy;secondary;58,4;10,7;116438,4
+11252;2000-2010;middle;one;5-15 minutes;business;secondary;46,6;10;133047,2
+11256;2010-2020;middle;three and more;5-15 minutes;economy;secondary;108,4;15,3;132979,7
+11257;2010-2020;middle;two;less than 5 minutes;economy;secondary;79,5;17,8;159119,5
+11260;2010-2020;middle;three and more;5-15 minutes;economy;secondary;89,5;14,6;188994,4
+11265;2010-2020;middle;three and more;15-30 minutes;business;primary;113,8;12,1;110896,3
+11266;2010-2020;middle;three and more;5-15 minutes;economy;secondary;100;14,8;140000
+11267;2010-2020;middle;three and more;15-30 minutes;economy;secondary;78;11,6;115384,6
+11268;1960-1980;middle;one;5-15 minutes;economy;secondary;31,1;5,5;125401,9
+11270;1960-1980;middle;one;5-15 minutes;economy;secondary;36;8;208333,3
+11273;2010-2020;middle;two;15-30 minutes;economy;secondary;57,7;11,4;97053,7
+11275;1960-1980;middle;two;15-30 minutes;economy;secondary;51;10;113725,5
+11276;1980-2000;middle;two;15-30 minutes;economy;secondary;51;9;109803,9
+11288;1980-2000;middle;three and more;15-30 minutes;economy;secondary;78;15;87179,5
+11292;1980-2000;middle;two;5-15 minutes;economy;secondary;51,9;7,5;106165,7
+11294;1960-1980;middle;two;5-15 minutes;economy;secondary;43,8;7;102739,7
+11295;2010-2020;middle;one;15-30 minutes;economy;secondary;33;9,2;130303
+11300;1980-2000;last;one;15-30 minutes;economy;secondary;40,8;9,9;115196,1
+11303;1960-1980;middle;three and more;15-30 minutes;economy;secondary;66;11;124242,4
+11304;2010-2020;middle;one;15-30 minutes;economy;secondary;43,2;14,7;192129,6
+11309;1960-1980;middle;three and more;15-30 minutes;economy;secondary;60;17;90500
+11310;1960-1980;first;one;15-30 minutes;economy;secondary;30;7;120000
+11311;1960-1980;first;two;15-30 minutes;economy;secondary;44,7;6;91722,6
+11312;2010-2020;middle;one;15-30 minutes;economy;secondary;38,9;10,7;119794,3
+11320;2010-2020;middle;two;15-30 minutes;economy;secondary;57;12,2;100000
+11323;1960-1980;last;two;15-30 minutes;economy;secondary;42;6;102381
+11326;2010-2020;middle;one;15-30 minutes;economy;secondary;37,7;8,6;149867,4
+11341;2010-2020;middle;one;30-60 minutes;comfort;secondary;35,3;8;99716,7
+11344;1960-1980;middle;two;less than 5 minutes;economy;secondary;38;7;111842,1
+11346;2000-2010;middle;one;less than 5 minutes;economy;secondary;40;9,4;155000
+11350;2010-2020;middle;one;less than 5 minutes;economy;secondary;32;8,6;203125
+11356;2000-2010;middle;one;15-30 minutes;business;secondary;46,9;13,4;118336,9
+11357;1980-2000;middle;one;less than 5 minutes;economy;secondary;36;8;148611,1
+11360;2000-2010;middle;two;15-30 minutes;economy;secondary;51;9;154902
+11367;2010-2020;middle;three and more;15-30 minutes;economy;primary;82,7;14,6;116137,7
+11370;1960-1980;middle;one;15-30 minutes;economy;secondary;32;6,4;115625
+11371;2010-2020;middle;one;less than 5 minutes;economy;secondary;38;8,4;140789,5
+11372;2010-2020;middle;two;15-30 minutes;economy;secondary;66;11;114393,9
+11383;1980-2000;middle;three and more;less than 5 minutes;economy;secondary;58;6,2;112051,7
+11384;2000-2010;middle;one;15-30 minutes;economy;secondary;24;5;177041,7
+11390;1980-2000;middle;one;5-15 minutes;economy;secondary;39,6;7,3;125000
+11407;1960-1980;middle;three and more;15-30 minutes;economy;secondary;74,8;7,9;100267,4
+11412;2010-2020;middle;one;15-30 minutes;economy;secondary;40,2;14;126865,7
+11418;2000-2010;middle;one;5-15 minutes;economy;secondary;45,7;14;122538,3
+11421;1960-1980;middle;three and more;less than 5 minutes;economy;secondary;60,2;6,2;107973,4
+11422;2000-2010;middle;one;5-15 minutes;comfort;secondary;38,8;9,2;128608,2
+11424;2000-2010;middle;three and more;5-15 minutes;economy;secondary;108,8;14,7;160753,7
+11425;1960-1980;middle;two;15-30 minutes;economy;secondary;48;7,1;108312,5
+11427;2010-2020;middle;one;less than 5 minutes;economy;secondary;48,3;17,3;131470
+11428;2010-2020;middle;three and more;30-60 minutes;comfort;secondary;89;16,3;138202,2
+11429;1960-1980;last;two;15-30 minutes;economy;secondary;43,1;6;104408,4
+11435;2010-2020;middle;three and more;15-30 minutes;economy;secondary;120;32;175000
+11436;1980-2000;middle;three and more;less than 5 minutes;economy;secondary;79,8;14,9;97744,4
+11440;2000-2010;middle;two;15-30 minutes;economy;secondary;69;11,3;133333,3
+11442;2000-2010;middle;two;15-30 minutes;economy;secondary;70,5;12,7;95035,5
+11444;1980-2000;first;one;15-30 minutes;economy;secondary;33,5;8,6;108955,2
+11445;1960-1980;first;three and more;5-15 minutes;economy;secondary;49;5,1;89795,9
+11448;2010-2020;middle;one;15-30 minutes;economy;secondary;34,9;10,4;108853,9
+11449;1960-1980;middle;one;15-30 minutes;economy;secondary;40,5;7;106172,8
+11450;1980-2000;middle;three and more;15-30 minutes;economy;secondary;60;7;95000
+11452;2000-2010;last;two;15-30 minutes;economy;secondary;90;14;155000
+11456;2010-2020;middle;two;15-30 minutes;economy;secondary;57,9;10,8;121588,9
+11457;1960-1980;first;two;5-15 minutes;economy;secondary;46;7;79347,8
+11461;2010-2020;middle;one;30-60 minutes;economy;secondary;41;9;107317,1
+11464;2000-2010;middle;three and more;30-60 minutes;economy;secondary;117,6;38,2;107993,2
+11466;2000-2010;first;three and more;15-30 minutes;economy;secondary;95,5;15,3;94240,8
+11467;1960-1980;middle;one;15-30 minutes;economy;secondary;31;8,5;138709,7
+11471;1960-1980;middle;one;30-60 minutes;economy;secondary;32;7;79687,5
+11473;1960-1980;middle;three and more;5-15 minutes;economy;secondary;61;15;122147,5
+11480;1960-1980;middle;three and more;15-30 minutes;economy;secondary;49;5,3;93877,6
+11481;2010-2020;middle;two;15-30 minutes;economy;secondary;61,2;13,1;138888,9
+11486;1980-2000;middle;three and more;15-30 minutes;economy;secondary;74,6;9;154155,5
+11490;1980-2000;middle;one;15-30 minutes;economy;secondary;44,6;13,4;107623,3
+11493;1960-1980;last;two;15-30 minutes;economy;secondary;44,7;6;109619,7
+11494;2010-2020;middle;one;less than 5 minutes;economy;secondary;41,3;10,8;162227,6
+11500;1960-1980;first;one;15-30 minutes;economy;secondary;31,4;5,5;89172
+11502;2010-2020;middle;one;15-30 minutes;economy;secondary;23;5;127826,1
+11503;2010-2020;middle;one;15-30 minutes;economy;secondary;24;4;181250
+11504;2010-2020;middle;one;5-15 minutes;economy;secondary;40,2;10,8;162313,4
+11511;2000-2010;middle;three and more;less than 5 minutes;economy;secondary;85;13;123529,4
+11522;2000-2010;middle;two;15-30 minutes;economy;secondary;78,9;15;123574,1
+11529;2010-2020;middle;three and more;15-30 minutes;economy;secondary;72,3;16,1;145228,2
+11530;1960-1980;middle;one;30-60 minutes;economy;primary;33,3;10,5;112012
+11532;1960-1980;middle;two;15-30 minutes;economy;secondary;43,1;5,3;85846,9
+11539;1980-2000;middle;three and more;15-30 minutes;economy;secondary;90,3;15,5;94019,9
+11541;2010-2020;middle;one;15-30 minutes;comfort;secondary;35,8;8,9;134357,5
+11543;2000-2010;middle;three and more;15-30 minutes;economy;secondary;110;14;109081,8
+11545;1960-1980;middle;three and more;15-30 minutes;economy;secondary;75;8;92000
+11550;1960-1980;middle;two;less than 5 minutes;economy;secondary;44;6;121590,9
+11564;2000-2010;middle;three and more;less than 5 minutes;business;secondary;87;9,4;201149,4
+11566;2010-2020;middle;two;15-30 minutes;economy;secondary;57;15;96491,2
+11567;2010-2020;middle;one;15-30 minutes;economy;secondary;40;16,1;130000
+11571;2010-2020;middle;two;15-30 minutes;economy;secondary;92;23,9;134271,7
+11572;2010-2020;middle;one;15-30 minutes;economy;secondary;66;23,1;182666,7
+11574;2010-2020;middle;two;15-30 minutes;economy;secondary;53;14;109434
+11575;2010-2020;middle;one;15-30 minutes;economy;secondary;33;8;127272,7
+11584;1960-1980;first;one;less than 5 minutes;economy;secondary;35;7;128571,4
+11585;2010-2020;middle;one;15-30 minutes;economy;secondary;43,1;15;104408,4
+11586;1960-1980;first;two;15-30 minutes;economy;secondary;50,5;7,1;101980,2
+11587;2000-2010;middle;three and more;5-15 minutes;economy;secondary;84,5;28;139645
+11592;2010-2020;middle;one;15-30 minutes;economy;secondary;25;8;176000
+11604;1960-1980;middle;two;15-30 minutes;economy;secondary;50;6,5;107800
+11609;2000-2010;middle;one;15-30 minutes;economy;secondary;39;10;119230,8
+11610;2000-2010;middle;two;15-30 minutes;economy;secondary;64;10,7;134375
+11612;1960-1980;middle;three and more;15-30 minutes;economy;secondary;49,7;7;96579,5
+11614;2010-2020;middle;one;5-15 minutes;economy;secondary;45;12;153663,3
+11615;2000-2010;middle;two;15-30 minutes;economy;secondary;66,5;10,4;139849,6
+11616;1960-1980;middle;three and more;15-30 minutes;economy;secondary;65,6;9,5;99085,4
+11619;1980-2000;middle;three and more;5-15 minutes;economy;secondary;111;13,1;126126,1
+11630;2010-2020;middle;three and more;15-30 minutes;economy;secondary;90;16;118888,9
+11631;2000-2010;middle;two;less than 5 minutes;economy;secondary;67,5;18,4;151111,1
+11633;1980-2000;middle;three and more;15-30 minutes;economy;secondary;57,2;6,1;90909,1
+11635;2010-2020;middle;three and more;15-30 minutes;economy;secondary;81;12;123456,8
+11641;2000-2010;middle;one;15-30 minutes;economy;secondary;48,5;10,3;152577,3
+11645;2000-2010;middle;two;15-30 minutes;economy;secondary;52;6;148076,9
+11646;2000-2010;middle;three and more;15-30 minutes;economy;secondary;129,6;36;153549,4
+11647;1960-1980;last;two;5-15 minutes;economy;secondary;52;8;115384,6
+11654;1960-1980;middle;one;5-15 minutes;economy;secondary;31,1;5,7;125401,9
+11655;1960-1980;middle;three and more;15-30 minutes;economy;secondary;71,1;7;103375,5
+11656;2010-2020;middle;two;5-15 minutes;economy;primary;64;23;112500
+11657;2000-2010;middle;two;5-15 minutes;economy;secondary;42;9;119047,6
+11667;1980-2000;middle;three and more;15-30 minutes;economy;secondary;71;8;88732,4
+11671;1980-2000;middle;two;less than 5 minutes;economy;secondary;51,3;8;122807
+11681;1960-1980;last;two;15-30 minutes;economy;secondary;45;5,6;117777,8
+11682;2010-2020;middle;one;30-60 minutes;economy;secondary;30,6;5;104542,5
+11683;2010-2020;middle;two;15-30 minutes;economy;secondary;55,8;9;127240,1
+11688;1960-1980;last;two;15-30 minutes;economy;secondary;43;5,2;110000
+11689;1980-2000;middle;two;15-30 minutes;economy;secondary;58;12,7;155172,4
+11693;2010-2020;middle;one;30-60 minutes;economy;secondary;38;10,4;105000
+11696;1960-1980;middle;two;5-15 minutes;economy;secondary;46;5,5;113043,5
+11702;1960-1980;first;two;15-30 minutes;economy;secondary;46;6;102173,9
+11705;2010-2020;middle;two;15-30 minutes;economy;secondary;68,3;13,9;115666,2
+11706;1960-1980;middle;two;15-30 minutes;economy;secondary;42,4;5;113207,5
+11707;2010-2020;middle;three and more;15-30 minutes;economy;secondary;105,7;20,4;178600
+11708;1960-1980;last;two;15-30 minutes;economy;secondary;54;8;96296,3
+11713;2010-2020;middle;two;30-60 minutes;economy;secondary;52;7;120961,5
+11718;2010-2020;middle;three and more;15-30 minutes;economy;secondary;109,4;12,9;189447,6
+11719;2010-2020;middle;three and more;less than 5 minutes;economy;secondary;85,9;16;133876,6
+11720;2010-2020;middle;one;5-15 minutes;economy;secondary;34,3;7,4;148396,5
+11723;2010-2020;middle;one;5-15 minutes;economy;secondary;43;10;186046,5
+11728;1980-2000;middle;three and more;15-30 minutes;economy;secondary;99;15;93939,4
+11730;2000-2010;middle;three and more;5-15 minutes;economy;secondary;80,7;9,1;121437,4
+11738;2000-2010;middle;two;5-15 minutes;economy;secondary;80;19;181250
+11740;1960-1980;middle;one;15-30 minutes;economy;secondary;35,4;6,8;121468,9
+11741;1960-1980;middle;three and more;15-30 minutes;economy;secondary;60,2;6,2;91362,1
+11742;2000-2010;middle;two;15-30 minutes;economy;secondary;47;6;147872,3
+11743;1960-1980;first;two;15-30 minutes;economy;secondary;44,9;7;115812,9
+11748;1960-1980;last;one;5-15 minutes;economy;secondary;30;5;153333,3
+11750;2000-2010;middle;two;15-30 minutes;business;secondary;70;17;125000
+11755;2010-2020;middle;two;15-30 minutes;economy;secondary;70;16;207142,9
+11758;2010-2020;middle;two;5-15 minutes;economy;secondary;59;11;201694,9
+11760;1960-1980;middle;two;15-30 minutes;economy;secondary;45;8,2;93333,3
+11768;1980-2000;middle;three and more;less than 5 minutes;economy;secondary;58;6,2;118965,5
+11777;2010-2020;middle;two;5-15 minutes;economy;secondary;68;14;151470,6
+11778;1960-1980;middle;two;15-30 minutes;economy;secondary;47,5;8,5;100000
+11788;1960-1980;middle;three and more;30-60 minutes;economy;secondary;67,5;6,2;90370,4
+11789;1980-2000;middle;two;15-30 minutes;economy;secondary;52,2;8,1;103256,7
+11795;2010-2020;middle;one;15-30 minutes;comfort;secondary;36,2;10,3;113812,2
+11796;1960-1980;middle;two;15-30 minutes;economy;secondary;45,8;6,8;117467,2
+11797;1960-1980;middle;one;5-15 minutes;economy;secondary;32,3;6;123219,8
+11809;2010-2020;middle;one;15-30 minutes;economy;secondary;46;12;105434,8
+11810;2010-2020;middle;one;15-30 minutes;economy;secondary;36;9;135833,3
+11811;1960-1980;middle;three and more;15-30 minutes;economy;secondary;73;8,9;100684,9
+11814;2010-2020;last;two;15-30 minutes;economy;secondary;63,4;10,5;97791,8
+11820;2000-2010;middle;one;30-60 minutes;economy;secondary;34,5;10;130434,8
+11829;1960-1980;last;three and more;15-30 minutes;economy;secondary;60;8;88333,3
+11834;1960-1980;middle;two;5-15 minutes;economy;secondary;50;8;124000
+11837;2000-2010;middle;one;5-15 minutes;economy;primary;28;5;178571,4
+11844;2010-2020;middle;one;15-30 minutes;economy;secondary;39,1;9,7;104859,3
+11847;1960-1980;middle;three and more;15-30 minutes;economy;secondary;59;6;96610,2
+11851;2010-2020;middle;one;15-30 minutes;economy;secondary;38,4;9,2;156250
+11852;1980-2000;middle;one;5-15 minutes;economy;secondary;36;8;137500
+11854;2000-2010;middle;one;15-30 minutes;economy;secondary;44,4;10,1;150675,7
+11855;1980-2000;middle;two;15-30 minutes;economy;secondary;53;9;112264,2
+11856;2000-2010;middle;one;5-15 minutes;economy;secondary;48,4;10,2;137190,1
+11858;1980-2000;middle;three and more;15-30 minutes;economy;secondary;91,6;12,5;96615,7
+11859;1960-1980;first;one;15-30 minutes;economy;secondary;32,4;5,4;111111,1
+11862;1960-1980;middle;two;15-30 minutes;economy;secondary;45;7;113333,3
+11864;2010-2020;middle;two;15-30 minutes;economy;secondary;61,5;20,3;97561
+11868;2010-2020;last;two;less than 5 minutes;economy;primary;69,2;13,4;209180
+11870;1980-2000;last;three and more;15-30 minutes;economy;secondary;57,2;6,2;113636,4
+11881;2000-2010;middle;two;30-60 minutes;economy;secondary;66,4;11;125602,4
+11882;1960-1980;last;three and more;5-15 minutes;economy;secondary;57,7;6;96187,2
+11884;1960-1980;middle;one;15-30 minutes;economy;secondary;32;8,1;112500
+11885;1960-1980;last;one;30-60 minutes;economy;secondary;31,3;5,5;121405,8
+11891;2010-2020;middle;three and more;15-30 minutes;economy;secondary;82;21;213414,6
+11892;1960-1980;first;two;15-30 minutes;economy;secondary;50,6;9,5;93873,5
+11904;2010-2020;last;two;30-60 minutes;economy;secondary;100;25;112000
+11905;2010-2020;middle;one;15-30 minutes;economy;primary;28;6;116071,4
+11907;2000-2010;middle;two;15-30 minutes;economy;secondary;82;29;119512,2
+11909;2010-2020;middle;two;15-30 minutes;economy;secondary;65;11;104461,5
+11911;2010-2020;middle;two;15-30 minutes;economy;secondary;65;14;100769,2
+11920;2010-2020;middle;one;15-30 minutes;economy;secondary;32,2;8,2;124223,6
+11921;2010-2020;middle;one;less than 5 minutes;economy;secondary;43;15,2;209302,3
+11922;1960-1980;middle;one;30-60 minutes;economy;secondary;35;7,8;102571,4
+11932;2000-2010;middle;one;15-30 minutes;economy;secondary;38;10;130263,2
+11934;1980-2000;middle;three and more;15-30 minutes;economy;secondary;86,6;11,5;100461,9
+11936;2000-2010;middle;two;15-30 minutes;economy;secondary;64;11,8;134375
+11939;1980-2000;first;two;less than 5 minutes;economy;secondary;83,2;21,2;82812,5
+11941;2010-2020;middle;two;5-15 minutes;economy;secondary;63,8;14,2;164576,8
+11953;2000-2010;middle;one;15-30 minutes;economy;secondary;46,5;19,5;124516,1
+11959;1960-1980;middle;three and more;30-60 minutes;economy;secondary;62;6;94838,7
+11962;1980-2000;middle;three and more;15-30 minutes;economy;secondary;81;20;119753,1
+11963;1960-1980;middle;three and more;15-30 minutes;economy;secondary;60;6;87500
+11967;1960-1980;first;three and more;5-15 minutes;economy;secondary;60;7;100000
+11968;1980-2000;middle;one;5-15 minutes;economy;primary;33,4;12,2;149700,6
+11970;2000-2010;middle;one;5-15 minutes;economy;secondary;57;11;104912,3
+11971;1960-1980;first;three and more;15-30 minutes;economy;secondary;63;10;98412,7
+11980;2010-2020;middle;one;5-15 minutes;economy;secondary;44,4;10,1;186936,9
+11987;2010-2020;middle;three and more;5-15 minutes;business;primary;112,6;35,3;155106,6
+11988;2010-2020;middle;three and more;15-30 minutes;business;primary;85,3;12;120105,5
+11993;1960-1980;first;three and more;15-30 minutes;economy;secondary;56;6;77678,6
+11995;1980-2000;middle;one;15-30 minutes;economy;secondary;39,7;7,1;108312,3
+12009;1960-1980;last;two;5-15 minutes;economy;secondary;55;9;127272,7
+12011;1960-1980;middle;three and more;15-30 minutes;economy;secondary;60;7,4;95833,3
+12026;1960-1980;last;two;15-30 minutes;economy;secondary;45,1;6,3;90909,1
+12031;1960-1980;middle;three and more;5-15 minutes;economy;secondary;59;7;108474,6
+12047;1960-1980;middle;one;less than 5 minutes;economy;secondary;32;12;118750
+12050;1980-2000;middle;three and more;15-30 minutes;economy;secondary;75;8,1;87066,7
+12057;2010-2020;last;one;15-30 minutes;economy;secondary;32,6;10;141104,3
+12063;1960-1980;middle;two;5-15 minutes;economy;secondary;42,4;5,2;115566
+12064;2010-2020;middle;two;15-30 minutes;economy;primary;55,7;9,2;119032
+12074;2010-2020;middle;one;15-30 minutes;comfort;secondary;29,7;5,5;136700,3
+12079;2010-2020;middle;one;15-30 minutes;economy;secondary;57;16,1;109649,1
+12083;2010-2020;middle;one;5-15 minutes;economy;secondary;60;23,5;165833,3
+12091;1960-1980;middle;two;30-60 minutes;economy;secondary;44;6;102250
+12097;2010-2020;middle;one;5-15 minutes;economy;primary;46,4;15,6;154345,7
+12106;2010-2020;middle;two;15-30 minutes;economy;secondary;59;13;132203,4
+12109;1960-1980;last;three and more;15-30 minutes;economy;secondary;63,7;9,6;91836,7
+12120;2010-2020;middle;two;15-30 minutes;economy;secondary;76;21,5;175131,6
+12124;2010-2020;middle;one;15-30 minutes;economy;secondary;37,4;9,8;104278,1
+12128;1960-1980;middle;three and more;5-15 minutes;economy;secondary;49;5,3;91836,7
+12129;2000-2010;middle;one;15-30 minutes;economy;secondary;45,7;12,5;142231,9
+12130;2010-2020;middle;two;30-60 minutes;economy;secondary;57;9;103333,3
+12132;2010-2020;middle;one;30-60 minutes;economy;secondary;36,8;9;119293,5
+12134;1980-2000;middle;one;15-30 minutes;economy;secondary;38;9;115526,3
+12136;1960-1980;middle;two;less than 5 minutes;economy;secondary;46,6;8;118025,8
+12140;1980-2000;middle;two;5-15 minutes;economy;secondary;57,4;8,2;113240,4
+12141;1960-1980;middle;three and more;5-15 minutes;economy;secondary;104,9;9,5;90562,4
+12142;1960-1980;middle;three and more;5-15 minutes;economy;secondary;62;10;112903,2
+12143;2010-2020;middle;three and more;15-30 minutes;economy;secondary;129;17,7;182945,7
+12144;1980-2000;middle;two;15-30 minutes;economy;secondary;53,8;7,5;119423,8
+12145;2010-2020;middle;one;15-30 minutes;economy;primary;26,1;5;119954
+12151;2010-2020;middle;two;15-30 minutes;economy;secondary;64,1;19,9;148205,9
+12156;2010-2020;middle;one;5-15 minutes;economy;primary;34,2;12,2;108187,1
+12157;2000-2010;first;one;15-30 minutes;economy;secondary;40;9;145000
+12159;1960-1980;middle;one;5-15 minutes;economy;secondary;31,3;6,2;166134,2
+12162;2010-2020;middle;one;30-60 minutes;economy;secondary;48,1;14;130977,1
+12165;2010-2020;middle;one;30-60 minutes;economy;secondary;39,6;20,3;140151,5
+12175;1980-2000;middle;three and more;15-30 minutes;economy;secondary;81,1;14,9;90012,3
+12176;1960-1980;middle;three and more;15-30 minutes;economy;secondary;60;6,3;87500
+12184;2000-2010;middle;two;15-30 minutes;economy;secondary;65;12;148461,5
+12187;2010-2020;middle;one;15-30 minutes;economy;secondary;42,1;11,5;140142,5
+12193;2010-2020;middle;two;5-15 minutes;economy;secondary;60;14;152166,7
+12209;1960-1980;middle;two;15-30 minutes;economy;secondary;45,6;7;103070,2
+12213;2000-2010;middle;one;15-30 minutes;economy;secondary;39;11;121794,9
+12214;1980-2000;middle;three and more;5-15 minutes;economy;secondary;53;6,4;109245,3
+12220;2010-2020;middle;one;15-30 minutes;economy;secondary;35;12;125714,3
+12221;1960-1980;first;three and more;5-15 minutes;economy;secondary;42;5,3;92857,1
+12228;2010-2020;middle;two;15-30 minutes;economy;secondary;65,8;8,9;121428,6
+12234;2000-2010;middle;two;15-30 minutes;economy;secondary;60;13,6;133333,3
+12235;2000-2010;middle;two;15-30 minutes;economy;secondary;90;14;97777,8
+12236;2000-2010;middle;two;15-30 minutes;economy;secondary;52,7;8,7;105313,1
+12248;2000-2010;middle;one;15-30 minutes;comfort;secondary;40;12,3;132500
+12249;2010-2020;middle;one;30-60 minutes;economy;secondary;33,1;10;134743,2
+12251;1960-1980;first;two;less than 5 minutes;economy;secondary;50,5;5,8;112871,3
+12252;2000-2010;middle;one;15-30 minutes;economy;secondary;37;10;147297,3
+12264;2010-2020;middle;three and more;15-30 minutes;economy;secondary;113,2;39;150176,7
+12265;2000-2010;middle;one;30-60 minutes;economy;secondary;34,8;10,5;129310,3
+12272;2000-2010;first;two;15-30 minutes;economy;secondary;66;10;109393,9
+12275;2000-2010;middle;one;5-15 minutes;economy;secondary;36;12;151388,9
+12284;1960-1980;middle;two;less than 5 minutes;economy;secondary;51;7;131176,5
+12285;1960-1980;middle;two;5-15 minutes;economy;secondary;45;5,1;94488,9
+12295;2010-2020;middle;three and more;15-30 minutes;economy;secondary;85,3;12,1;120750,3
+12297;2000-2010;middle;two;less than 5 minutes;economy;secondary;73,2;13;135245,9
+12298;1980-2000;middle;three and more;5-15 minutes;economy;secondary;65;10;108153,8
+12300;2000-2010;middle;two;5-15 minutes;economy;secondary;71,8;16,5;151810,6
+12301;1980-2000;middle;two;15-30 minutes;economy;secondary;51;11;125490,2
+12306;1960-1980;middle;two;5-15 minutes;economy;secondary;42,4;6;112028,3
+12309;2010-2020;middle;one;15-30 minutes;economy;secondary;38,1;10,5;123359,6
+12312;2000-2010;middle;three and more;15-30 minutes;economy;secondary;83,5;11,6;134131,7
+12317;2010-2020;middle;two;15-30 minutes;economy;secondary;64,9;14,2;110169,5
+12321;2000-2010;middle;one;15-30 minutes;economy;secondary;38;10;152631,6
+12322;1960-1980;middle;two;15-30 minutes;economy;secondary;49;9;109795,9
+12326;2010-2020;middle;three and more;15-30 minutes;economy;secondary;113,8;12;111423,6
+12327;1980-2000;last;two;5-15 minutes;economy;secondary;56,2;10,5;142348,8
+12331;2010-2020;middle;one;15-30 minutes;economy;secondary;36,3;9,9;112947,7
+12332;1960-1980;middle;two;15-30 minutes;economy;secondary;46;6,3;97826,1
+12333;1960-1980;last;two;15-30 minutes;economy;secondary;45;7;94444,4
+12335;2010-2020;middle;one;15-30 minutes;economy;secondary;45,6;13,4;126096,5
+12337;2010-2020;middle;two;5-15 minutes;economy;secondary;68,5;14,7;124817,5
+12340;2010-2020;middle;two;15-30 minutes;economy;secondary;68,4;11,6;131140,4
+12342;2010-2020;middle;two;15-30 minutes;economy;secondary;59,9;10,4;122036,7
+12343;2010-2020;middle;three and more;5-15 minutes;economy;secondary;90;12;117777,8
+12348;2010-2020;middle;two;15-30 minutes;economy;secondary;46,3;8,6;167386,6
+12349;1980-2000;last;one;30-60 minutes;economy;secondary;46,8;10,5;116880,3
+12353;2010-2020;middle;three and more;5-15 minutes;business;secondary;85;17;141176,5
+12354;1980-2000;middle;three and more;15-30 minutes;economy;secondary;70,8;7,1;101694,9
+12359;2010-2020;middle;three and more;15-30 minutes;economy;secondary;116,7;18,8;160239,9
+12362;1980-2000;last;one;15-30 minutes;economy;secondary;38;11;127631,6
+12366;2010-2020;middle;two;15-30 minutes;economy;secondary;59,9;12;112520,9
+12367;2010-2020;middle;two;15-30 minutes;economy;secondary;74,9;16,3;99332,4
+12371;2010-2020;middle;two;15-30 minutes;economy;secondary;52,3;16,7;201720,8
+12375;1980-2000;middle;three and more;15-30 minutes;economy;secondary;97;12;131958,8
+12378;2010-2020;middle;one;15-30 minutes;comfort;secondary;38;20;121052,6
+12380;2000-2010;middle;three and more;less than 5 minutes;economy;secondary;99;17;144949,5
+12382;1960-1980;middle;two;less than 5 minutes;economy;secondary;43,5;5,1;135632,2
+12384;1980-2000;middle;two;15-30 minutes;economy;secondary;51,2;8;103515,6
+12387;2000-2010;middle;one;15-30 minutes;economy;secondary;41,6;9;126682,7
+12388;2010-2020;middle;one;15-30 minutes;economy;secondary;27,7;6;140794,2
+12389;1980-2000;middle;three and more;15-30 minutes;economy;secondary;78,4;14,8;112882,7
+12390;1980-2000;middle;three and more;5-15 minutes;economy;secondary;65,7;9,5;92846,3
+12391;1960-1980;middle;two;5-15 minutes;economy;secondary;47;8,2;102127,7
+12393;2010-2020;middle;three and more;15-30 minutes;economy;secondary;80,3;15,1;111332,5
+12394;2010-2020;middle;two;15-30 minutes;economy;secondary;55;15;145454,5
+12395;2000-2010;middle;two;5-15 minutes;economy;secondary;55,6;11,1;160071,9
+12398;2010-2020;middle;one;30-60 minutes;economy;secondary;32,7;10;125382,3
+12400;2010-2020;middle;two;15-30 minutes;economy;secondary;67;14;186567,2
+12401;1960-1980;middle;three and more;less than 5 minutes;economy;secondary;65;7;112153,8
+12404;1980-2000;last;one;5-15 minutes;economy;secondary;38,4;9,9;122135,4
+12411;1960-1980;middle;two;15-30 minutes;economy;secondary;45;5,6;101111,1
+12412;2010-2020;last;one;15-30 minutes;economy;secondary;27;3;118518,5
+12415;2010-2020;middle;three and more;15-30 minutes;economy;secondary;116,1;18,5;161843,2
+12419;2010-2020;middle;three and more;5-15 minutes;economy;secondary;85,8;15,2;161655
+12421;2000-2010;middle;three and more;less than 5 minutes;economy;secondary;72;9;138875
+12422;2010-2020;middle;one;15-30 minutes;economy;secondary;48;19;186458,3
+12423;2000-2010;middle;two;less than 5 minutes;economy;secondary;100;33;155000
+12425;1980-2000;last;two;30-60 minutes;economy;secondary;49,7;8,1;98189,1
+12428;1960-1980;first;one;30-60 minutes;economy;secondary;40;9;109975
+12433;2000-2010;first;two;15-30 minutes;economy;secondary;58,8;10,8;101870,7
+12442;1960-1980;middle;one;30-60 minutes;economy;secondary;31;5,5;114516,1
+12444;2010-2020;middle;two;5-15 minutes;economy;primary;67;20,2;128358,2
+12446;1980-2000;middle;one;15-30 minutes;economy;secondary;39;10,3;141025,6
+12448;2010-2020;middle;one;30-60 minutes;economy;secondary;37,3;10,1;96246,6
+12451;1960-1980;middle;three and more;15-30 minutes;economy;secondary;62,6;9,5;92651,8
+12452;1980-2000;middle;three and more;15-30 minutes;economy;secondary;75;11;113333,3
+12459;2010-2020;middle;three and more;less than 5 minutes;economy;secondary;72;10,9;122243,9
+12465;2000-2010;middle;three and more;5-15 minutes;economy;secondary;90;12;117222,2
+12471;2000-2010;middle;three and more;5-15 minutes;economy;secondary;113,6;15;125000
+12474;1960-1980;middle;one;15-30 minutes;economy;secondary;30,6;6,2;114052,3
+12476;1960-1980;last;two;5-15 minutes;economy;secondary;45;5;123333,3
+12482;2000-2010;middle;three and more;5-15 minutes;economy;secondary;99,7;11,8;134302,9
+12485;1980-2000;middle;two;less than 5 minutes;economy;secondary;52;7,8;105576,9
+12492;2000-2010;middle;two;15-30 minutes;economy;secondary;65,5;16,8;152519,1
+12494;1980-2000;first;two;15-30 minutes;economy;secondary;45;7;106666,7
+12502;2000-2010;middle;two;15-30 minutes;economy;secondary;68;15,5;123529,4
+12504;1960-1980;middle;one;15-30 minutes;economy;secondary;29,4;6;122449
+12509;2000-2010;middle;three and more;less than 5 minutes;economy;secondary;99,7;10;109328
+12511;2000-2010;middle;one;15-30 minutes;economy;secondary;34,3;9,5;145772,6
+12516;2010-2020;middle;one;30-60 minutes;economy;secondary;50;15,5;112000
+12517;2000-2010;middle;two;less than 5 minutes;economy;secondary;72;13;166666,7
+12519;1960-1980;middle;one;15-30 minutes;economy;secondary;31,7;8,2;119873,8
+12520;1960-1980;last;one;15-30 minutes;economy;secondary;36;7;102777,8
+12524;2010-2020;middle;one;15-30 minutes;economy;secondary;38;10;131578,9
+12528;1980-2000;first;three and more;15-30 minutes;economy;secondary;60;6;88333,3
+12533;2010-2020;middle;two;15-30 minutes;economy;secondary;70;13;160000
+12548;2010-2020;middle;one;15-30 minutes;economy;primary;33,4;8,6;134431,1
+12549;2010-2020;middle;three and more;less than 5 minutes;economy;primary;102;22;180774
+12562;2010-2020;first;one;15-30 minutes;economy;secondary;42;13;85714,3
+12571;1960-1980;first;two;15-30 minutes;economy;secondary;44,7;6;91722,6
+12577;2000-2010;middle;one;15-30 minutes;economy;secondary;41;12,7;182926,8
+12585;1980-2000;middle;one;15-30 minutes;economy;secondary;41;10;117073,1
+12590;2010-2020;middle;two;15-30 minutes;economy;secondary;62,5;14,4;109440
+12595;2010-2020;middle;three and more;15-30 minutes;economy;secondary;123,1;23,2;193866,8
+12600;1960-1980;middle;one;15-30 minutes;economy;secondary;31;6,3;116129
+12601;2010-2020;middle;three and more;15-30 minutes;economy;primary;94,8;13,2;75421,9
+12612;2010-2020;middle;one;15-30 minutes;economy;secondary;26,7;4,2;112322,1
+12614;1980-2000;middle;three and more;15-30 minutes;economy;secondary;75;9;114666,7
+12618;1980-2000;middle;one;5-15 minutes;economy;secondary;34;8;120588,2
+12621;1960-1980;middle;two;5-15 minutes;economy;secondary;45;6;117777,8
+12622;1980-2000;middle;three and more;15-30 minutes;economy;secondary;125,7;11,2;73985,7
+12626;2010-2020;middle;three and more;15-30 minutes;economy;secondary;83,1;10,8;86642,6
+12628;1980-2000;first;three and more;less than 5 minutes;economy;secondary;78;14,5;96025,6
+12630;1960-1980;middle;three and more;less than 5 minutes;economy;secondary;60,6;6,1;132013,2
+12633;1980-2000;last;three and more;5-15 minutes;economy;secondary;59;7;93220,3
+12648;2010-2020;last;two;less than 5 minutes;comfort;secondary;62,3;13,2;160513,6
+12651;1960-1980;first;two;15-30 minutes;economy;secondary;46,1;7,4;82429,5
+12652;1980-2000;middle;two;5-15 minutes;economy;secondary;52;8,5;110576,9
+12655;2010-2020;middle;one;15-30 minutes;economy;secondary;34,3;9,6;109037,9
+12660;1960-1980;last;three and more;15-30 minutes;economy;secondary;62;6;95161,3
+12666;2000-2010;middle;three and more;30-60 minutes;economy;secondary;70,2;8,6;86894,6
+12667;1960-1980;middle;two;15-30 minutes;economy;secondary;48,3;5,8;90062,1
+12672;1980-2000;first;two;15-30 minutes;economy;secondary;52;9;95576,9
+12675;2010-2020;middle;two;5-15 minutes;economy;secondary;59,4;12,5;113636,4
+12676;1980-2000;middle;three and more;5-15 minutes;economy;secondary;56,9;6,5;114235,5
+12679;1980-2000;middle;one;15-30 minutes;economy;secondary;36,9;8,5;120596,2
+12681;1980-2000;middle;one;less than 5 minutes;economy;secondary;69;27;126376,8
+12688;2010-2020;middle;two;15-30 minutes;economy;primary;44,3;19;189390,5
+12696;1960-1980;middle;two;15-30 minutes;economy;secondary;57,1;8;92819,6
+12699;1960-1980;middle;two;15-30 minutes;economy;secondary;44;6;118181,8
+12703;2010-2020;middle;one;15-30 minutes;economy;primary;28,4;5;116197,2
+12704;2010-2020;middle;two;5-15 minutes;economy;secondary;38,2;8,8;130628,3
+12719;2010-2020;middle;one;15-30 minutes;comfort;secondary;44;11,5;140909,1
+12726;1960-1980;middle;three and more;30-60 minutes;economy;secondary;69;8;82608,7
+12728;2010-2020;middle;two;15-30 minutes;elite;secondary;80;19;165375
+12729;1980-2000;first;three and more;30-60 minutes;economy;secondary;80;14,9;97500
+12734;1980-2000;middle;three and more;5-15 minutes;economy;secondary;74;12;114864,9
+12739;1960-1980;middle;three and more;15-30 minutes;economy;secondary;58;7;94827,6
+12740;2010-2020;middle;one;15-30 minutes;economy;secondary;44,2;10,4;147058,8
+12746;2000-2010;middle;one;15-30 minutes;economy;secondary;43;12;130232,6
+12747;1960-1980;middle;one;5-15 minutes;economy;secondary;27,4;6;140510,9
+12750;1980-2000;middle;three and more;15-30 minutes;economy;secondary;95;8,1;90526,3
+12753;1980-2000;middle;two;5-15 minutes;economy;secondary;46;7;110869,6
+12757;2010-2020;middle;one;15-30 minutes;economy;secondary;35,1;11;119658,1
+12768;2010-2020;middle;one;15-30 minutes;economy;secondary;39,5;9,5;113924,1
+12770;2010-2020;middle;three and more;15-30 minutes;economy;secondary;100,5;41,3;135323,4
+12771;1960-1980;middle;three and more;15-30 minutes;economy;secondary;53;8;104717
+12774;2010-2020;middle;two;30-60 minutes;economy;primary;51;12;80858,4
+12776;2010-2020;middle;two;15-30 minutes;economy;secondary;57,6;10,7;112326,4
+12780;2010-2020;middle;one;15-30 minutes;economy;secondary;39;16,8;196153,8
+12782;1980-2000;middle;three and more;15-30 minutes;economy;secondary;72;11,8;99861,1
+12784;2010-2020;middle;three and more;less than 5 minutes;economy;secondary;79,1;10,8;152970,9
+12794;1980-2000;first;one;15-30 minutes;economy;secondary;37;8,3;114864,9
+12801;2010-2020;middle;one;15-30 minutes;economy;secondary;30,7;5;192182,4
+12813;1980-2000;middle;one;15-30 minutes;economy;secondary;38,3;10;114882,5
+12815;2000-2010;middle;three and more;15-30 minutes;economy;secondary;42;5,2;105952,4
+12816;1960-1980;middle;one;15-30 minutes;economy;secondary;36,8;8;124972,8
+12818;2010-2020;middle;two;15-30 minutes;economy;primary;68;11,5;50000
+12821;1960-1980;last;two;15-30 minutes;economy;secondary;44;5;77272,7
+12826;2010-2020;middle;one;15-30 minutes;economy;secondary;37;9,7;102702,7
+12828;2010-2020;middle;one;5-15 minutes;economy;secondary;38,9;10,1;164524,4
+12829;2010-2020;last;one;30-60 minutes;economy;secondary;36;8,1;120277,8
+12836;1960-1980;last;one;5-15 minutes;economy;secondary;33;6;130000
+12838;2010-2020;middle;two;15-30 minutes;economy;secondary;71;13;154225,4
+12842;1960-1980;last;two;15-30 minutes;economy;secondary;44;5,8;109090,9
+12845;2010-2020;middle;three and more;15-30 minutes;economy;secondary;84,2;11,3;111401,4
+12846;2010-2020;middle;one;15-30 minutes;economy;secondary;28,3;5,5;126855,1
+12849;2000-2010;middle;one;15-30 minutes;economy;secondary;45,3;12,2;87638
+12852;2010-2020;middle;one;30-60 minutes;economy;secondary;51,5;19;89563,1
+12853;1960-1980;middle;two;30-60 minutes;economy;secondary;45,4;6,3;94713,7
+12854;1960-1980;middle;three and more;5-15 minutes;economy;secondary;77,6;9,4;109523,2
+12860;2010-2020;middle;three and more;5-15 minutes;economy;secondary;82,5;12,2;163636,4
+12861;1960-1980;first;three and more;15-30 minutes;economy;secondary;60,3;6,2;87893,9
+12867;1980-2000;middle;three and more;less than 5 minutes;economy;secondary;86,1;19,3;104761,9
+12868;2000-2010;middle;one;15-30 minutes;economy;secondary;45,7;12,2;98468,3
+12873;1960-1980;first;one;15-30 minutes;economy;secondary;31;6,4;108064,5
+12875;1960-1980;middle;one;30-60 minutes;economy;secondary;30;6;100000
+12879;1960-1980;middle;three and more;15-30 minutes;economy;secondary;63;10;83333,3
+12881;2010-2020;last;two;5-15 minutes;economy;secondary;68;12;129411,8
+12884;2000-2010;middle;two;15-30 minutes;economy;secondary;43,5;8,5;167816,1
+12885;1960-1980;middle;two;15-30 minutes;economy;secondary;46;7;91304,3
+12886;1960-1980;middle;one;15-30 minutes;economy;secondary;35,7;7;105042
+12889;1960-1980;last;three and more;15-30 minutes;economy;secondary;60;6,3;83316,7
+12892;2000-2010;middle;three and more;less than 5 minutes;economy;secondary;118;24,3;148305,1
+12893;2010-2020;middle;two;15-30 minutes;economy;secondary;54,7;13,6;105118,8
+12894;2010-2020;middle;three and more;5-15 minutes;economy;secondary;77;12;125324,7
+12895;2010-2020;middle;two;15-30 minutes;economy;secondary;50;18;146000
+12897;2010-2020;middle;one;15-30 minutes;comfort;secondary;35,3;10,9;157223,8
+12902;1980-2000;first;one;30-60 minutes;economy;secondary;38,6;9,4;94041,5
+12903;2010-2020;middle;one;15-30 minutes;economy;secondary;38,1;9,8;110236,2
+12908;2010-2020;middle;one;5-15 minutes;economy;secondary;47,8;12,9;200000
+12909;1980-2000;middle;three and more;30-60 minutes;economy;secondary;100;19;117900
+12910;2000-2010;middle;one;30-60 minutes;economy;secondary;34;9;97058,8
+12917;1960-1980;middle;three and more;15-30 minutes;economy;secondary;66,2;9,9;93655,6
+12919;2010-2020;middle;one;5-15 minutes;economy;secondary;34,3;10,6;169096,2
+12920;2010-2020;middle;two;15-30 minutes;economy;secondary;62;14;87096,8
+12921;2010-2020;middle;two;5-15 minutes;economy;secondary;65,5;13;178626
+12922;2000-2010;middle;two;15-30 minutes;economy;secondary;65,5;10,8;96946,6
+12928;2010-2020;middle;two;less than 5 minutes;economy;secondary;57,2;10;141608,4
+12929;2010-2020;middle;two;15-30 minutes;economy;secondary;51,3;8,2;191033,1
+12931;1960-1980;middle;one;less than 5 minutes;economy;secondary;44,5;9,4;134831,5
+12932;2010-2020;middle;one;30-60 minutes;economy;secondary;46,2;22,3;167748,9
+12936;2000-2010;middle;three and more;15-30 minutes;economy;secondary;98,2;15;116089,6
+12944;1980-2000;middle;three and more;30-60 minutes;economy;secondary;63,7;8;97331,2
+12946;2000-2010;middle;one;less than 5 minutes;economy;secondary;39,8;10,5;133165,8
+12948;2010-2020;middle;one;15-30 minutes;economy;secondary;23;5;146521,7
+12953;2000-2010;middle;two;15-30 minutes;economy;secondary;58,4;10,5;136986,3
+12954;1960-1980;middle;three and more;5-15 minutes;economy;secondary;65,4;9,6;110856,3
+12958;2010-2020;middle;one;15-30 minutes;economy;secondary;44;12;175000
+12961;2010-2020;middle;two;30-60 minutes;economy;primary;52;10,3;101730,8
+12962;2010-2020;middle;one;15-30 minutes;economy;secondary;31,8;8;152515,7
+12967;2010-2020;middle;two;15-30 minutes;economy;secondary;39,5;14;149367,1
+12976;2000-2010;middle;two;15-30 minutes;economy;secondary;52;14;163269,2
+12977;1960-1980;last;one;5-15 minutes;economy;secondary;32;6;107812,5
+12979;2010-2020;middle;one;15-30 minutes;economy;primary;34,1;10;138768,3
+12980;2010-2020;middle;one;15-30 minutes;economy;secondary;40,5;11;135777,8
+12981;1980-2000;middle;three and more;15-30 minutes;economy;secondary;70,9;8,2;119887,2
+12985;1960-1980;middle;three and more;5-15 minutes;economy;secondary;57;6;107017,5
+12994;1960-1980;middle;two;15-30 minutes;economy;secondary;46;7;121521,7
+12995;1980-2000;first;two;15-30 minutes;economy;secondary;54,7;9,9;102193,8
+12996;1960-1980;last;three and more;15-30 minutes;economy;secondary;57,8;5,6;103788,9
+12997;2010-2020;middle;two;15-30 minutes;economy;secondary;52,5;8,5;118095,2
+12998;1980-2000;first;three and more;15-30 minutes;economy;secondary;70;10;107142,9
+12999;1960-1980;middle;three and more;15-30 minutes;economy;secondary;62,2;9,5;98070,7
+13000;1980-2000;middle;three and more;15-30 minutes;economy;secondary;72;8,4;104166,7
+13001;1960-1980;last;three and more;5-15 minutes;economy;secondary;42;6;96428,6
+13002;2010-2020;middle;one;15-30 minutes;comfort;secondary;38,3;18;144125,3
+13005;1960-1980;middle;two;less than 5 minutes;economy;secondary;44,8;5,8;102656,3
+13010;2010-2020;middle;one;15-30 minutes;economy;secondary;26,5;3;124490,6
+13018;2000-2010;middle;two;15-30 minutes;economy;secondary;51;9;141176,5
+13023;2010-2020;middle;one;5-15 minutes;economy;secondary;41;11;131682,9
+13029;1980-2000;first;three and more;less than 5 minutes;economy;secondary;79;15;101265,8
+13030;2000-2010;first;one;30-60 minutes;economy;secondary;32;8;126250
+13031;1960-1980;middle;three and more;15-30 minutes;economy;secondary;58;8;100000
+13032;1960-1980;middle;two;15-30 minutes;economy;secondary;48;9;104166,6
+13034;2000-2010;middle;three and more;15-30 minutes;economy;secondary;79,4;10,8;113350,1
+13036;1980-2000;middle;two;15-30 minutes;economy;secondary;46;7,2;100000
+13041;2000-2010;middle;three and more;15-30 minutes;economy;secondary;84;13,1;148809,5
+13044;2010-2020;middle;three and more;5-15 minutes;economy;secondary;95;55;205263,2
+13047;2010-2020;middle;two;15-30 minutes;economy;secondary;73;18,1;152739,7
+13052;2010-2020;middle;one;15-30 minutes;economy;secondary;46,1;17,3;169197,4
+13057;1980-2000;middle;one;15-30 minutes;economy;secondary;34,7;8,6;125360,2
+13060;1960-1980;middle;one;15-30 minutes;economy;secondary;30;6;135000
+13062;1960-1980;middle;three and more;5-15 minutes;economy;secondary;74;9;91891,9
+13064;2000-2010;middle;one;15-30 minutes;economy;secondary;34;16;138235,3
+13065;1960-1980;last;two;5-15 minutes;economy;secondary;45;7,2;111088,9
+13068;2000-2010;middle;two;5-15 minutes;economy;secondary;71,6;18;153617,3
+13069;2000-2010;middle;two;less than 5 minutes;economy;secondary;72;17,6;165277,8
+13070;2010-2020;middle;one;30-60 minutes;economy;secondary;35,2;8,1;100000
+13072;2000-2010;middle;three and more;15-30 minutes;economy;secondary;69;9;113043,5
+13073;2010-2020;middle;one;15-30 minutes;economy;secondary;38,8;12,1;132732
+13075;2000-2010;middle;two;less than 5 minutes;economy;secondary;70;13,4;104000
+13077;1960-1980;middle;two;15-30 minutes;economy;secondary;44,1;7,6;131519,3
+13081;2010-2020;middle;two;15-30 minutes;economy;secondary;59,9;11;92654,4
+13083;2010-2020;middle;one;15-30 minutes;economy;secondary;36;9;113888,9
+13084;2000-2010;middle;two;15-30 minutes;economy;secondary;70;13;150000
+13085;1960-1980;last;three and more;15-30 minutes;economy;secondary;60;6;114333,3
+13089;1980-2000;middle;one;15-30 minutes;economy;secondary;35,7;8;117647,1
+13093;2000-2010;middle;three and more;less than 5 minutes;economy;secondary;101;13,9;138613,9
+13094;2010-2020;middle;one;15-30 minutes;economy;secondary;47,8;14;128661,1
+13096;2010-2020;middle;one;30-60 minutes;economy;secondary;33,3;9,9;133933,9
+13097;2010-2020;middle;one;15-30 minutes;economy;secondary;22;4;103681,8
+13099;1960-1980;last;two;15-30 minutes;economy;secondary;45;6;102200
+13100;1980-2000;middle;two;5-15 minutes;economy;secondary;47,8;8,4;144351,5
+13101;1980-2000;middle;one;less than 5 minutes;economy;secondary;33,3;8,1;177777,8
+13102;1960-1980;middle;three and more;15-30 minutes;economy;secondary;61,8;9,9;95469,3
+13104;1960-1980;first;three and more;5-15 minutes;economy;secondary;60,2;6,2;94684,4
+13107;2000-2010;middle;one;15-30 minutes;economy;secondary;41;10;135365,9
+13109;2010-2020;middle;two;5-15 minutes;economy;secondary;76;14,9;178947,4
+13115;2000-2010;middle;two;5-15 minutes;economy;secondary;58,7;12,6;115672,9
+13116;2010-2020;middle;two;15-30 minutes;economy;secondary;76;37,5;207894,7
+13118;2010-2020;middle;two;15-30 minutes;economy;secondary;67;11;117910,4
+13119;1980-2000;middle;one;15-30 minutes;economy;secondary;40;10,1;115000
+13121;2000-2010;middle;three and more;15-30 minutes;economy;secondary;122;55;162295,1
+13122;2010-2020;middle;two;15-30 minutes;comfort;secondary;53,6;12,7;118470,1
+13128;1980-2000;middle;three and more;less than 5 minutes;economy;secondary;80;9;151250
+13130;2000-2010;middle;one;15-30 minutes;economy;secondary;34;9;132352,9
+13131;1980-2000;middle;three and more;15-30 minutes;economy;secondary;89;12;100000
+13148;2000-2010;last;three and more;15-30 minutes;economy;secondary;126,6;20;98736,2
+13150;2010-2020;middle;one;5-15 minutes;comfort;secondary;44,3;12,4;158013,5
+13151;1960-1980;first;one;5-15 minutes;economy;secondary;30;7;118333,3
+13152;2010-2020;middle;two;15-30 minutes;economy;secondary;54,5;9,5;136697,2
+13153;1960-1980;middle;three and more;15-30 minutes;economy;secondary;70;10;111428,6
+13154;2010-2020;middle;one;15-30 minutes;economy;secondary;32,7;8,7;155963,3
+13155;2010-2020;middle;one;15-30 minutes;comfort;secondary;38;10,4;126315,8
+13161;2010-2020;middle;one;15-30 minutes;comfort;primary;36,7;10,3;125068,1
+13165;2010-2020;middle;two;5-15 minutes;economy;primary;79,3;26;170428,8
+13167;2010-2020;middle;two;15-30 minutes;economy;primary;73,6;14,9;100951,1
+13170;2010-2020;middle;one;15-30 minutes;economy;primary;33,9;7,2;122566,4
+13171;2010-2020;middle;three and more;15-30 minutes;business;secondary;87,7;14,6;125416,2
+13172;2000-2010;first;three and more;less than 5 minutes;economy;secondary;82,6;12,7;90799
+13174;2000-2010;middle;two;less than 5 minutes;economy;secondary;67;23;161194
+13176;2010-2020;middle;two;less than 5 minutes;economy;secondary;65,7;11,3;109589
+13181;2000-2010;middle;one;15-30 minutes;economy;primary;39,7;10,7;130982,4
+13182;2000-2010;middle;one;15-30 minutes;economy;secondary;20;3;175000
+13185;1960-1980;middle;one;15-30 minutes;economy;secondary;30,4;6,1;118421,1
+13190;1980-2000;middle;two;30-60 minutes;economy;secondary;54,8;10,3;105656,9
+13200;1960-1980;last;three and more;5-15 minutes;economy;secondary;58;7;96551,7
+13202;2000-2010;middle;one;5-15 minutes;economy;secondary;44,6;12;168161,4
+13203;2010-2020;middle;one;15-30 minutes;economy;secondary;41,1;11,3;86374,7
+13204;1960-1980;middle;one;15-30 minutes;economy;secondary;32,6;6,2;101227
+13206;2010-2020;middle;one;15-30 minutes;economy;primary;38,8;10,2;126715,7
+13208;2000-2010;middle;one;15-30 minutes;economy;secondary;47;12,2;135957,4
+13209;2010-2020;middle;one;15-30 minutes;comfort;secondary;36,6;10,4;109262,3
+13212;2010-2020;middle;two;15-30 minutes;economy;secondary;58;11;118103,4
+13216;2010-2020;middle;two;15-30 minutes;economy;secondary;66;11,6;128787,9
+13217;2010-2020;middle;two;5-15 minutes;elite;secondary;116,4;19,5;160008,6
+13219;2010-2020;middle;three and more;15-30 minutes;economy;secondary;79,8;15,1;109398,5
+13221;2010-2020;middle;one;30-60 minutes;economy;primary;28,7;9,6;96864,1
+13222;2010-2020;middle;one;30-60 minutes;economy;primary;32,4;7,4;91975,3
+13223;2000-2010;middle;three and more;15-30 minutes;economy;secondary;84;15;135714,3
+13224;1960-1980;middle;two;5-15 minutes;economy;secondary;44,3;6,8;108126,4
+13226;2010-2020;last;one;30-60 minutes;economy;primary;36,4;15,2;89835,2
+13227;2010-2020;middle;one;30-60 minutes;economy;primary;30,9;12,3;92880,3
+13230;2010-2020;middle;one;15-30 minutes;economy;secondary;30;4,2;200000
+13232;2010-2020;first;two;15-30 minutes;economy;secondary;60;18,3;166500
+13233;1960-1980;middle;one;15-30 minutes;economy;primary;27,3;6;145970,7
+13234;2000-2010;middle;three and more;15-30 minutes;economy;secondary;112,9;19,5;117803,4
+13236;2010-2020;middle;one;30-60 minutes;economy;primary;37,9;11,9;88522,4
+13237;2010-2020;middle;two;15-30 minutes;business;primary;72;13,3;116111,1
+13244;2010-2020;middle;three and more;15-30 minutes;business;primary;88,2;14,2;114229
+13248;2010-2020;middle;two;30-60 minutes;economy;primary;55,4;11,3;89981,9
+13249;2010-2020;middle;one;15-30 minutes;economy;primary;37,6;14,9;126994,7
+13253;2010-2020;middle;two;30-60 minutes;economy;primary;38,3;7,3;89947,8
+13255;2010-2020;middle;two;5-15 minutes;economy;primary;68,6;28,6;161661,8
+13258;2010-2020;middle;two;15-30 minutes;comfort;primary;65,7;15;109436,8
+13262;2010-2020;middle;two;30-60 minutes;economy;primary;41,5;8,7;94939,8
+13268;2010-2020;middle;two;30-60 minutes;economy;primary;41,8;8,6;88995,2
+13269;2010-2020;middle;three and more;30-60 minutes;economy;primary;60,8;12,3;87993,4
+13273;2010-2020;middle;three and more;15-30 minutes;economy;primary;80,1;18,5;121473,2
+13276;2010-2020;middle;one;15-30 minutes;economy;secondary;40;11;137500
+13277;1980-2000;first;three and more;15-30 minutes;economy;secondary;72,8;12;95467
+13280;2010-2020;middle;two;15-30 minutes;comfort;secondary;64,6;9,5;113003,1
+13290;2010-2020;middle;one;30-60 minutes;economy;secondary;36,2;16,3;96685,1
+13291;1960-1980;middle;three and more;15-30 minutes;economy;secondary;69;9,1;118840,6
+13293;1960-1980;middle;three and more;less than 5 minutes;economy;secondary;49;5,4;107959,2
+13298;1980-2000;middle;one;15-30 minutes;economy;secondary;36;11;118055,6
+13302;2010-2020;middle;three and more;15-30 minutes;economy;secondary;85,3;12,1;121922,6
+13303;1980-2000;middle;two;15-30 minutes;economy;secondary;52,4;8;109732,8
+13304;1960-1980;first;one;5-15 minutes;economy;secondary;34;7,4;114705,9
+13305;2010-2020;middle;one;less than 5 minutes;economy;secondary;45,5;12,7;105494,5
+13306;1960-1980;last;three and more;15-30 minutes;economy;secondary;81,8;6,7;112469,4
+13308;1980-2000;middle;one;30-60 minutes;economy;secondary;41;11;110975,6
+13309;2010-2020;middle;three and more;5-15 minutes;economy;secondary;90;12,5;150000
+13310;2000-2010;middle;three and more;15-30 minutes;economy;secondary;80,1;10,7;112359,6
+13313;2010-2020;middle;one;5-15 minutes;comfort;primary;37,8;10;178174,6
+13328;2000-2010;middle;one;5-15 minutes;economy;secondary;47,1;12;159235,7
+13330;1960-1980;first;two;15-30 minutes;economy;secondary;46;7;91304,3
+13332;1960-1980;last;one;15-30 minutes;economy;secondary;31,5;6;133333,3
+13333;2010-2020;middle;one;15-30 minutes;economy;secondary;37;14;159459,5
+13335;2010-2020;middle;two;15-30 minutes;economy;secondary;61,3;11,1;120717,8
+13342;2000-2010;middle;two;5-15 minutes;economy;secondary;90;13,1;132222,2
+13343;1960-1980;last;three and more;5-15 minutes;economy;secondary;76,2;9;144357
+13346;1960-1980;middle;two;15-30 minutes;economy;secondary;45;7;122222,2
+13356;2010-2020;middle;three and more;15-30 minutes;economy;secondary;120,7;28;93620,5
+13357;1980-2000;middle;two;15-30 minutes;economy;secondary;57,4;11,8;107735,2
+13370;2000-2010;middle;three and more;15-30 minutes;economy;secondary;79,9;10,7;81977,5
+13375;2010-2020;middle;three and more;15-30 minutes;economy;secondary;82;19,9;112195,1
+13381;1980-2000;first;one;5-15 minutes;economy;secondary;37;6;124324,3
+13382;2010-2020;middle;one;30-60 minutes;economy;secondary;38,1;20;144357
+13383;1980-2000;middle;three and more;5-15 minutes;economy;secondary;104;21;110096,2
+13388;2000-2010;middle;two;15-30 minutes;economy;secondary;52;8,3;117307,7
+13389;1960-1980;first;three and more;5-15 minutes;economy;secondary;67,2;7,4;97470,2
+13391;1980-2000;middle;three and more;30-60 minutes;economy;secondary;59;7,1;88135,6
+13395;2010-2020;middle;two;15-30 minutes;economy;secondary;87,2;4,6;200000
+13398;1960-1980;middle;one;15-30 minutes;economy;secondary;30,1;6,8;107973,4
+13400;1980-2000;last;two;30-60 minutes;economy;secondary;45;6,2;91111,1
+13403;2000-2010;middle;two;less than 5 minutes;economy;secondary;106;30;141509,4
+13406;1980-2000;middle;two;30-60 minutes;economy;secondary;52;10,2;92307,7
+13407;1980-2000;last;one;30-60 minutes;economy;secondary;35;7;111428,6
+13408;2010-2020;middle;one;15-30 minutes;comfort;secondary;35;10;132857,1
+13414;1960-1980;middle;one;30-60 minutes;economy;secondary;35;7,2;105714,3
+13415;1960-1980;middle;one;15-30 minutes;economy;secondary;31,3;5,8;124600,6
+13419;1960-1980;first;two;less than 5 minutes;economy;secondary;46;6,2;97826,1
+13420;2010-2020;middle;one;15-30 minutes;economy;secondary;40;12;94975
+13421;2010-2020;middle;one;15-30 minutes;comfort;secondary;38;12,9;109473,7
+13429;2010-2020;middle;one;15-30 minutes;economy;secondary;44,7;18,8;159955,3
+13430;1960-1980;middle;one;15-30 minutes;economy;secondary;35,1;8;113675,2
+13435;2010-2020;middle;three and more;15-30 minutes;economy;secondary;103,5;17,4;175458,9
+13438;1960-1980;middle;two;15-30 minutes;economy;secondary;45,8;5,5;94978,2
+13445;2010-2020;middle;one;15-30 minutes;economy;secondary;35,8;9;181424,6
+13448;1960-1980;first;one;30-60 minutes;economy;secondary;30,6;5,5;101307,2
+13450;2010-2020;middle;three and more;15-30 minutes;economy;secondary;113,9;12,1;113257,2
+13451;2010-2020;middle;three and more;15-30 minutes;economy;secondary;115,7;12,1;109507,3
+13452;1960-1980;middle;three and more;5-15 minutes;economy;secondary;75;10;90666,7
+13455;2000-2010;first;one;15-30 minutes;economy;secondary;34,5;8,5;123188,4
+13458;1980-2000;middle;three and more;15-30 minutes;economy;secondary;69,1;10,8;108538,4
+13468;2010-2020;middle;one;15-30 minutes;economy;secondary;30;2;143333,3
+13472;1960-1980;middle;one;15-30 minutes;economy;secondary;33,1;6,3;120845,9
+13474;1980-2000;middle;three and more;15-30 minutes;economy;secondary;71;11;90140,8
+13477;1960-1980;last;two;15-30 minutes;economy;secondary;45,8;6;87314,4
+13482;1960-1980;first;two;15-30 minutes;economy;secondary;46;7;82608,7
+13487;1960-1980;middle;two;5-15 minutes;economy;secondary;44,2;6,5;108574,7
+13492;1980-2000;middle;three and more;15-30 minutes;economy;secondary;67;11,7;119253,7
+13493;1960-1980;middle;three and more;5-15 minutes;economy;secondary;56;6;125000
+13502;1960-1980;middle;three and more;15-30 minutes;economy;secondary;59,5;6,2;84033,6
+13503;1960-1980;middle;one;less than 5 minutes;economy;secondary;31,2;5,6;133012,8
+13506;2010-2020;middle;one;5-15 minutes;economy;primary;40,7;10,8;168994,5
+13507;1980-2000;middle;three and more;15-30 minutes;economy;secondary;60,8;6,2;102796,1
+13509;2010-2020;middle;one;15-30 minutes;economy;secondary;35,2;10,1;109943,2
+13511;1960-1980;middle;three and more;15-30 minutes;economy;secondary;58;6,3;98275,9
+13512;2010-2020;middle;two;15-30 minutes;economy;secondary;49,5;8,2;122222,2
+13524;1960-1980;middle;two;15-30 minutes;economy;secondary;44,9;7,3;106904,2
+13525;1980-2000;middle;one;15-30 minutes;economy;secondary;41;10;117073,2
+13528;1960-1980;middle;three and more;less than 5 minutes;economy;secondary;85,9;7,1;116298
+13530;2010-2020;middle;three and more;15-30 minutes;economy;secondary;113,3;15,5;113239,2
+13531;2010-2020;middle;three and more;15-30 minutes;economy;secondary;71;13;116901,4
+13532;2010-2020;middle;three and more;15-30 minutes;economy;secondary;100,4;13,5;112350,6
+13539;2010-2020;middle;one;30-60 minutes;economy;secondary;44;12;90909,1
+13544;2010-2020;middle;two;15-30 minutes;economy;secondary;50;12,5;92800
+13545;2000-2010;middle;three and more;30-60 minutes;economy;secondary;100;11;120000
+13546;2010-2020;middle;three and more;5-15 minutes;economy;secondary;127;27,5;148818,9
+13548;2010-2020;middle;three and more;5-15 minutes;economy;secondary;100;23;139000
+13551;2010-2020;middle;three and more;15-30 minutes;economy;secondary;113,4;12,1;110493,8
+13564;1960-1980;first;two;15-30 minutes;economy;secondary;50,3;7;96421,5
+13565;1960-1980;middle;three and more;15-30 minutes;economy;secondary;59;6;100000
+13577;2010-2020;middle;one;15-30 minutes;economy;secondary;33,3;9,1;141141,1
+13584;1960-1980;middle;two;5-15 minutes;economy;secondary;52,9;8,3;109621,9
+13585;1960-1980;last;one;5-15 minutes;economy;secondary;32,5;9;118461,5
+13594;2010-2020;middle;two;5-15 minutes;economy;secondary;71,8;18;211699,2
+13596;1980-2000;last;one;30-60 minutes;economy;secondary;47;10,5;113829,8
+13597;1980-2000;middle;one;30-60 minutes;economy;secondary;32,1;7,4;98130,8
+13599;2010-2020;middle;two;15-30 minutes;economy;secondary;63,2;11,5;154272,2
+13607;2010-2020;middle;one;15-30 minutes;economy;secondary;33,7;9;112759,6
+13608;1960-1980;middle;two;15-30 minutes;economy;secondary;43;6;103488,4
+13611;2000-2010;middle;one;15-30 minutes;economy;secondary;42;11;119047,6
+13620;1980-2000;middle;three and more;5-15 minutes;economy;secondary;71;11;106338
+13621;1980-2000;middle;three and more;15-30 minutes;economy;secondary;80;15;110000
+13623;1960-1980;middle;three and more;less than 5 minutes;economy;secondary;55,5;10,2;113513,5
+13624;1960-1980;last;two;15-30 minutes;economy;secondary;44,3;5,5;99097,1
+13638;2010-2020;middle;three and more;15-30 minutes;economy;secondary;105,2;41,2;167300,4
+13652;1960-1980;middle;three and more;5-15 minutes;economy;secondary;58;6,5;110172,4
+13655;2000-2010;middle;two;15-30 minutes;economy;secondary;60;20;120000
+13658;1980-2000;last;three and more;15-30 minutes;economy;secondary;98,6;16,1;111054,8
+13659;1960-1980;middle;one;15-30 minutes;economy;secondary;31,3;6,2;119808,3
+13665;1980-2000;middle;two;less than 5 minutes;economy;secondary;50,8;8,4;125000
+13666;2010-2020;middle;three and more;5-15 minutes;economy;secondary;80;11,7;108750
+13668;2010-2020;middle;two;5-15 minutes;economy;primary;61;12;146653,2
+13669;2000-2010;middle;one;5-15 minutes;economy;secondary;41,8;10;137559,8
+13671;2010-2020;middle;three and more;15-30 minutes;economy;secondary;78,1;10,8;102304,7
+13673;1960-1980;middle;one;less than 5 minutes;economy;secondary;31;8;117741,9
+13676;2010-2020;middle;three and more;15-30 minutes;economy;secondary;78,6;15,1;107760,8
+13677;2010-2020;middle;three and more;15-30 minutes;economy;secondary;83,6;16,4;124760,8
+13681;2000-2010;middle;one;15-30 minutes;economy;secondary;42;10;121428,6
+13683;2010-2020;middle;three and more;15-30 minutes;economy;secondary;61,9;10,5;121809,4
+13690;2010-2020;first;three and more;30-60 minutes;economy;secondary;64,7;9,1;116692,4
+13694;2010-2020;middle;three and more;15-30 minutes;economy;secondary;61,6;10,5;111850,6
+13695;2010-2020;middle;one;15-30 minutes;economy;secondary;26,4;4,6;121212,1
+13698;2010-2020;middle;three and more;15-30 minutes;economy;secondary;60,1;10,4;121797
+13699;1980-2000;last;three and more;15-30 minutes;economy;secondary;71,8;7;87743,7
+13700;2010-2020;middle;two;15-30 minutes;economy;secondary;59,9;10,4;121869,8
+13702;1960-1980;first;one;less than 5 minutes;economy;secondary;32,5;6,3;107692,3
+13703;1960-1980;middle;three and more;15-30 minutes;economy;secondary;60,9;6,5;94400,7
+13704;2010-2020;middle;two;less than 5 minutes;comfort;secondary;54;9,4;164814,8
+13706;1960-1980;middle;three and more;30-60 minutes;economy;secondary;82,2;9;91240,9
+13712;1980-2000;middle;three and more;5-15 minutes;economy;secondary;68,8;8,3;94476,7
+13713;1980-2000;middle;three and more;5-15 minutes;economy;secondary;57,4;7;111498,3
+13714;1960-1980;first;two;30-60 minutes;economy;secondary;48;7;97916,7
+13715;2000-2010;middle;two;30-60 minutes;economy;secondary;76,6;12;124020,9
+13720;1960-1980;middle;three and more;15-30 minutes;economy;secondary;49,1;5;95315,7
+13722;1960-1980;middle;two;15-30 minutes;economy;secondary;48,5;5,5;91752,6
+13726;2010-2020;middle;two;less than 5 minutes;economy;secondary;61;22;196721,3
+13729;2010-2020;middle;one;15-30 minutes;economy;secondary;41;11,5;151219,5
+13732;2000-2010;middle;two;less than 5 minutes;economy;secondary;70;14;145714,3
+13733;2010-2020;middle;two;15-30 minutes;economy;secondary;60,3;11,7;131840,8
+13736;2000-2010;middle;one;less than 5 minutes;economy;secondary;25,5;5;154902
+13739;2000-2010;middle;two;15-30 minutes;economy;secondary;48,4;10,2;130165,3
+13740;2000-2010;middle;three and more;15-30 minutes;economy;secondary;85,8;12,8;122186,3
+13745;2000-2010;middle;one;15-30 minutes;economy;secondary;43,6;9,9;133027,5
+13747;1980-2000;middle;one;15-30 minutes;economy;secondary;38;8;113157,9
+13751;2010-2020;middle;two;5-15 minutes;comfort;secondary;60;9,8;151666,7
+13752;1960-1980;last;two;less than 5 minutes;economy;secondary;53;8;129622,6
+13753;2010-2020;middle;two;15-30 minutes;economy;secondary;52;8;114423,1
+13757;2000-2010;middle;one;15-30 minutes;economy;secondary;41;12;160975,6
+13759;1960-1980;middle;two;less than 5 minutes;economy;secondary;51,6;8;102713,2
+13761;1960-1980;middle;two;5-15 minutes;economy;secondary;46,5;5,6;107526,9
+13764;1960-1980;last;two;5-15 minutes;economy;secondary;48,7;5,5;113963
+13765;1980-2000;middle;two;5-15 minutes;economy;secondary;54;7,8;101833,3
+13775;2010-2020;middle;two;5-15 minutes;business;secondary;65,7;11;180974,1
+13779;2010-2020;middle;two;15-30 minutes;economy;secondary;75,9;18,1;155467,7
+13780;2010-2020;middle;one;15-30 minutes;economy;secondary;35,4;10;107344,6
+13784;2010-2020;middle;two;15-30 minutes;economy;secondary;68;9;161764,7
+13786;2010-2020;middle;three and more;15-30 minutes;economy;secondary;82,7;10,9;149939,5
+13788;2010-2020;middle;three and more;15-30 minutes;economy;secondary;67;24;146268,7
+13789;2000-2010;middle;one;less than 5 minutes;economy;secondary;46;12;171739,1
+13791;1960-1980;last;two;5-15 minutes;economy;secondary;46;28;81521,7
+13793;2010-2020;middle;one;30-60 minutes;comfort;secondary;53,5;13,7;102218,7
+13794;2010-2020;middle;two;30-60 minutes;economy;secondary;55,4;14,9;97992,8
+13797;1980-2000;middle;three and more;30-60 minutes;economy;secondary;67;10;97000
+13804;2000-2010;middle;two;15-30 minutes;comfort;secondary;51,9;29,1;138709,1
+13807;2010-2020;first;one;15-30 minutes;economy;secondary;39,4;12,6;111675,1
+13808;1960-1980;middle;three and more;less than 5 minutes;economy;secondary;74;7;114864,9
+13810;2010-2020;middle;three and more;5-15 minutes;economy;secondary;96;36;213541,7
+13811;2010-2020;last;one;less than 5 minutes;comfort;secondary;49,3;20,5;184584,2
+13812;2010-2020;middle;two;15-30 minutes;economy;secondary;52;10;113461,5
+13813;2010-2020;middle;three and more;less than 5 minutes;comfort;secondary;84,5;12,8;164497
+13816;2000-2010;middle;one;15-30 minutes;economy;secondary;46;11;119565,2
+13817;2010-2020;middle;two;15-30 minutes;economy;secondary;109,6;56,3;179744,5
+13818;1980-2000;middle;one;5-15 minutes;economy;secondary;36,2;8;121547
+13823;2010-2020;middle;two;15-30 minutes;economy;secondary;52;8;119230,8
+13827;1960-1980;middle;three and more;15-30 minutes;economy;secondary;54,2;6,8;101476
+13838;2010-2020;middle;one;less than 5 minutes;economy;secondary;41;9,5;171951,2
+13839;2000-2010;first;one;30-60 minutes;economy;secondary;44;14;96590,9
+13842;1980-2000;middle;two;15-30 minutes;economy;secondary;45;7;124422,2
+13843;1980-2000;middle;three and more;less than 5 minutes;economy;secondary;67,3;9,4;105349,2
+13849;1980-2000;middle;one;15-30 minutes;economy;secondary;38,7;10;126615
+13851;2010-2020;middle;three and more;15-30 minutes;economy;secondary;84,3;11,8;119810,2
+13853;2010-2020;middle;one;5-15 minutes;business;secondary;45;8,3;188888,9
+13855;1980-2000;last;three and more;15-30 minutes;economy;secondary;101,7;15,5;79646
+13860;2010-2020;first;one;15-30 minutes;economy;secondary;46,6;17,5;141630,9
+13861;2010-2020;middle;one;15-30 minutes;economy;secondary;33,6;8,8;139881
+13864;1980-2000;last;one;5-15 minutes;economy;secondary;46,2;13,5;111039
+13869;2010-2020;middle;three and more;less than 5 minutes;economy;secondary;127;27;173228,3
+13871;2010-2020;middle;one;15-30 minutes;economy;secondary;41;12;102195,1
+13876;2010-2020;middle;one;15-30 minutes;economy;secondary;47,7;26,7;167505,2
+13879;2000-2010;middle;two;5-15 minutes;economy;secondary;57;11;161403,5
+13880;2000-2010;middle;two;less than 5 minutes;economy;secondary;98;14;150000
+13884;2010-2020;middle;one;30-60 minutes;economy;secondary;26,5;5,5;142641,5
+13885;2010-2020;middle;one;15-30 minutes;economy;secondary;35,5;9;118309,9
+13886;2010-2020;middle;one;15-30 minutes;economy;primary;34;9,6;144117,6
+13895;2000-2010;middle;one;15-30 minutes;economy;secondary;37;10,5;129729,7
+13896;2010-2020;middle;two;30-60 minutes;economy;secondary;45;6;154444,4
+13897;2010-2020;middle;one;15-30 minutes;economy;secondary;44;12;175000
+13901;1960-1980;middle;three and more;15-30 minutes;economy;secondary;58,2;7;102233,7
+13903;2010-2020;middle;three and more;5-15 minutes;economy;secondary;107,8;29,7;176252,3
+13913;1980-2000;middle;three and more;5-15 minutes;economy;secondary;112;10;76607,1
+13914;2010-2020;middle;three and more;15-30 minutes;economy;secondary;83,2;16,3;116105,8
+13915;1960-1980;middle;one;5-15 minutes;economy;secondary;40;10;117500
+13916;2000-2010;last;three and more;5-15 minutes;economy;secondary;110;17;154545,5
+13918;2010-2020;middle;two;15-30 minutes;economy;secondary;53;13;111132,1
+13926;1960-1980;middle;one;15-30 minutes;economy;secondary;31;5,3;119354,8
+13927;1960-1980;middle;two;5-15 minutes;economy;secondary;42,2;4,9;118222,7
+13928;1960-1980;middle;three and more;15-30 minutes;economy;secondary;60,1;6,3;94841,9
+13929;2010-2020;middle;one;15-30 minutes;economy;secondary;32,1;8,7;202492,2
+13930;1960-1980;first;three and more;15-30 minutes;economy;secondary;53,8;5;94609,7
+13935;1980-2000;middle;three and more;15-30 minutes;economy;secondary;60;6,2;85000
+13936;2000-2010;middle;two;15-30 minutes;economy;secondary;76;14;131565,8
+13937;1960-1980;first;two;15-30 minutes;economy;secondary;55,5;8;89909,9
+13938;2010-2020;middle;one;15-30 minutes;economy;secondary;25,6;5;140234,4
+13939;2010-2020;middle;three and more;15-30 minutes;economy;secondary;66,2;9,4;93655,6
+13940;1960-1980;first;three and more;15-30 minutes;economy;secondary;54,8;7,1;85583,9
+13942;1960-1980;middle;three and more;5-15 minutes;economy;secondary;42;5;92857,1
+13946;1960-1980;middle;one;30-60 minutes;economy;secondary;30,8;7,8;121753,2
+13948;1960-1980;first;two;less than 5 minutes;economy;secondary;42;5;135714,3
+13949;1960-1980;last;one;15-30 minutes;economy;secondary;38,2;8,1;114921,5
+13950;2000-2010;middle;one;15-30 minutes;economy;secondary;50;14,2;130000
+13952;2010-2020;middle;two;30-60 minutes;economy;secondary;56,1;12,2;112121,2
+13957;1980-2000;middle;three and more;5-15 minutes;economy;secondary;126,5;13;130434,8
+13958;1960-1980;middle;three and more;15-30 minutes;economy;secondary;71,2;8,9;100421,3
+13963;1980-2000;middle;three and more;15-30 minutes;economy;secondary;63,6;8;127358,5
+13965;2000-2010;middle;three and more;15-30 minutes;economy;secondary;95;12,2;115789,5
+13966;1960-1980;middle;two;less than 5 minutes;economy;secondary;42,4;5,5;113207,5
+13971;2010-2020;middle;two;15-30 minutes;economy;secondary;60,7;18,5;119940,7
+13972;2000-2010;middle;two;5-15 minutes;economy;secondary;80;35;142375
+13979;1960-1980;first;three and more;30-60 minutes;economy;secondary;81;10;78395,1
+13980;2010-2020;middle;two;15-30 minutes;economy;primary;61,5;19,2;76422,8
+13981;2010-2020;middle;one;15-30 minutes;economy;primary;39,1;12,8;88235,3
+13986;1980-2000;middle;two;15-30 minutes;economy;secondary;52;7,4;113461,5
+13989;2010-2020;middle;one;15-30 minutes;economy;secondary;50,7;13,6;123274,2
+13993;1960-1980;middle;three and more;15-30 minutes;economy;secondary;72,7;8,1;85282
+13996;2010-2020;middle;two;15-30 minutes;economy;secondary;74,7;14,8;109772,4
+13997;2010-2020;middle;one;less than 5 minutes;economy;secondary;39,4;14;167512,7
+14003;2000-2010;middle;two;5-15 minutes;economy;secondary;55,7;12;140035,9
+14014;1960-1980;middle;three and more;15-30 minutes;economy;secondary;57;9;140333,3
+14017;1980-2000;middle;two;15-30 minutes;economy;secondary;49;8,2;93673,5
+14022;1960-1980;last;two;5-15 minutes;economy;secondary;45,4;6,2;125550,7
+14023;2000-2010;middle;one;15-30 minutes;economy;secondary;43;10;133720,9
+14024;2010-2020;middle;one;15-30 minutes;economy;secondary;39;12;153333,3
+14034;1980-2000;middle;two;30-60 minutes;economy;secondary;48,1;7,7;106029,1
+14036;2000-2010;middle;two;15-30 minutes;economy;secondary;60;12;133166,7
+14037;2000-2010;first;two;5-15 minutes;economy;secondary;69,6;10,7;107758,6
+14038;2010-2020;middle;one;15-30 minutes;economy;secondary;51;14;169607,8
+14040;2010-2020;middle;two;15-30 minutes;economy;secondary;64,4;19;139751,6
+14041;2010-2020;first;three and more;5-15 minutes;economy;secondary;124,7;26,9;137091
+14048;1960-1980;middle;three and more;15-30 minutes;economy;secondary;72;7,7;87500
+14050;2000-2010;middle;one;15-30 minutes;economy;secondary;40,6;11;125615,8
+14051;2010-2020;middle;one;15-30 minutes;economy;primary;23,5;3,5;121276,6
+14052;1980-2000;middle;three and more;15-30 minutes;economy;secondary;81,2;15;102093,6
+14059;2010-2020;middle;two;15-30 minutes;economy;secondary;63;10,4;123809,5
+14066;1960-1980;middle;two;less than 5 minutes;economy;secondary;44;6,8;143181,8
+14082;1980-2000;middle;one;5-15 minutes;economy;secondary;36,5;8;156164,4
+14088;2010-2020;middle;one;15-30 minutes;economy;secondary;36,9;11;109756,1
+14090;1960-1980;middle;one;15-30 minutes;economy;secondary;36,6;11,4;95628,4
+14104;2010-2020;middle;three and more;15-30 minutes;economy;secondary;76,4;8,4;87696,3
+14106;2010-2020;middle;one;30-60 minutes;economy;primary;37,8;11,9;123015,9
+14110;2000-2010;middle;one;15-30 minutes;economy;secondary;39;13;146153,8
+14111;2010-2020;middle;three and more;15-30 minutes;economy;secondary;88,7;13,6;64261,6
+14112;2010-2020;middle;one;15-30 minutes;economy;secondary;40;11;75000
+14113;2010-2020;middle;one;15-30 minutes;economy;primary;36;11;144444,4
+14114;2000-2010;middle;three and more;5-15 minutes;economy;secondary;107,3;17,3;152842,5
+14116;1960-1980;first;two;15-30 minutes;economy;secondary;44,7;6,8;92617,4
+14126;2010-2020;middle;two;5-15 minutes;economy;secondary;70;14;128571,4
+14142;2000-2010;middle;one;less than 5 minutes;economy;secondary;43;13;123255,8
+14146;2010-2020;middle;two;15-30 minutes;economy;secondary;69,1;14,9;212735,2
+14147;1980-2000;first;two;30-60 minutes;economy;secondary;46,4;8,1;103232,8
+14148;2000-2010;middle;three and more;15-30 minutes;economy;secondary;93,3;20;163987,1
+14149;1980-2000;middle;three and more;15-30 minutes;economy;secondary;78;14;94230,8
+14162;2010-2020;middle;one;5-15 minutes;economy;secondary;26;21;176923,1
+14163;2010-2020;middle;one;15-30 minutes;economy;secondary;29,6;5,5;125675,7
+14167;2010-2020;middle;two;30-60 minutes;economy;secondary;53;12;118867,9
+14170;2010-2020;middle;one;15-30 minutes;economy;secondary;35;10;131428,6
+14171;2000-2010;middle;one;5-15 minutes;economy;primary;36;11,2;88888,9
+14174;2010-2020;middle;one;15-30 minutes;economy;secondary;36,3;17;125344,4
+14181;1960-1980;middle;two;15-30 minutes;economy;secondary;44,5;6;89887,6
+14185;2010-2020;middle;two;15-30 minutes;economy;secondary;68;12;113235,3
+14186;2010-2020;middle;one;15-30 minutes;comfort;secondary;39,7;10,4;146095,7
+14188;1980-2000;middle;two;less than 5 minutes;economy;secondary;51;11;136274,5
+14198;2010-2020;middle;three and more;15-30 minutes;economy;secondary;84,3;10,2;94306
+14200;2000-2010;middle;one;5-15 minutes;economy;secondary;53;12;111320,8
+14207;2010-2020;middle;one;15-30 minutes;economy;secondary;40,5;10;107407,4
+14212;2010-2020;middle;three and more;15-30 minutes;economy;secondary;83,1;10,8;74488,6
+14213;1980-2000;middle;one;15-30 minutes;economy;secondary;38,7;10,3;103359,2
+14215;2010-2020;middle;two;15-30 minutes;economy;primary;51,9;9,4;95086,7
+14227;2010-2020;middle;one;5-15 minutes;economy;secondary;40;11;112500
+14234;2010-2020;middle;one;15-30 minutes;economy;secondary;33,6;10;95238,1
+14249;2010-2020;middle;three and more;15-30 minutes;economy;secondary;76;21;168421,1
+14250;2000-2010;middle;one;15-30 minutes;economy;secondary;34;10;111764,7
+14251;1960-1980;middle;one;15-30 minutes;economy;secondary;35,7;7,8;95238,1
+14254;2000-2010;middle;three and more;15-30 minutes;economy;secondary;90,6;15;154525,4
+14258;1960-1980;middle;two;15-30 minutes;economy;secondary;44,2;6,7;119909,5
+14260;2010-2020;middle;two;30-60 minutes;economy;primary;52;15;81230,8
+14261;2000-2010;middle;two;15-30 minutes;economy;secondary;63;10;125396,8
+14264;2010-2020;last;one;less than 5 minutes;economy;secondary;69,2;13,3;209176,3
+14265;1960-1980;middle;three and more;5-15 minutes;economy;secondary;59;6;98135,6
+14266;2010-2020;middle;three and more;5-15 minutes;economy;secondary;83;12;160843,4
+14268;2000-2010;middle;one;5-15 minutes;economy;secondary;46,9;10;125799,6
+14269;2010-2020;middle;three and more;15-30 minutes;economy;secondary;83,1;16,4;116847,2
+14270;2000-2010;middle;three and more;less than 5 minutes;economy;secondary;119;20;134033,6
+14272;2010-2020;middle;one;15-30 minutes;comfort;primary;37,8;10,3;123015,9
+14274;2000-2010;middle;two;15-30 minutes;economy;secondary;55;11;190909,1
+14278;2000-2010;middle;two;15-30 minutes;economy;secondary;62,4;10,9;87500
+14281;2010-2020;middle;two;15-30 minutes;business;secondary;66;16;140909,1
+14282;1980-2000;middle;one;15-30 minutes;economy;secondary;46;13,2;108695,7
+14287;1980-2000;last;three and more;5-15 minutes;economy;secondary;71,7;8,2;97489,5
+14290;2010-2020;middle;one;15-30 minutes;economy;primary;32;10,2;112500
+14291;2000-2010;middle;one;15-30 minutes;economy;secondary;44,3;8,9;174492,1
+14293;1980-2000;middle;three and more;15-30 minutes;economy;secondary;71,6;8,2;92178,8
+14296;2010-2020;middle;one;15-30 minutes;economy;primary;36;9,9;121944,4
+14302;2010-2020;last;one;15-30 minutes;economy;secondary;37,8;16,5;132275,1
+14303;2000-2010;first;one;5-15 minutes;economy;secondary;55,1;15,8;127041,7
+14308;2000-2010;middle;two;15-30 minutes;economy;primary;52,3;10,3;124283
+14311;2000-2010;middle;three and more;5-15 minutes;economy;secondary;90;15,3;135544,4
+14313;2010-2020;middle;one;15-30 minutes;economy;secondary;35;10;125428,6
+14315;1980-2000;first;three and more;5-15 minutes;economy;secondary;59;7;83050,8
+14316;2000-2010;middle;three and more;15-30 minutes;economy;secondary;94,9;18,1;131717,6
+14318;2010-2020;middle;one;15-30 minutes;economy;secondary;38,1;9,2;118110,2
+14319;2010-2020;middle;two;15-30 minutes;economy;primary;63,6;10,7;112393,6
+14320;2010-2020;middle;three and more;15-30 minutes;economy;secondary;88,5;11,5;108474,6
+14321;2010-2020;middle;one;15-30 minutes;economy;secondary;40;10;107500
+14324;2010-2020;middle;two;less than 5 minutes;economy;secondary;92,3;17,9;178548,2
+14325;2010-2020;middle;one;15-30 minutes;comfort;secondary;29,5;5,5;124237,3
+14328;2010-2020;middle;one;15-30 minutes;comfort;secondary;44;12;106704,5
+14333;2010-2020;middle;two;5-15 minutes;economy;secondary;62,6;10;111821,1
+14336;1960-1980;middle;three and more;15-30 minutes;economy;secondary;117;9;158119,7
+14338;2000-2010;middle;one;less than 5 minutes;economy;secondary;42,1;10,3;170783,8
+14340;1980-2000;last;three and more;15-30 minutes;economy;secondary;81,3;10;110701,1
+14341;1980-2000;first;three and more;30-60 minutes;economy;secondary;66;8,7;85303
+14342;2000-2010;middle;one;5-15 minutes;economy;secondary;44,7;11,3;149888,1
+14346;2000-2010;middle;one;less than 5 minutes;economy;secondary;40,1;10,5;143391,5
+14348;2000-2010;middle;one;15-30 minutes;economy;secondary;27;5;136666,7
+14352;2010-2020;middle;two;less than 5 minutes;economy;secondary;68,8;11,4;167151,2
+14353;2000-2010;middle;two;less than 5 minutes;economy;secondary;75;15;204000
+14354;2000-2010;middle;one;15-30 minutes;economy;secondary;38;9;151315,8
+14355;2010-2020;middle;three and more;less than 5 minutes;economy;secondary;95,5;16;134973,8
+14358;2000-2010;middle;one;15-30 minutes;economy;secondary;45,3;10,3;143487,9
+14359;2000-2010;middle;one;15-30 minutes;economy;secondary;34;8;149411,8
+14360;2000-2010;middle;one;15-30 minutes;economy;secondary;40,8;12;134803,9
+14362;1960-1980;middle;three and more;15-30 minutes;economy;secondary;57;7;85087,7
+14363;2010-2020;middle;three and more;15-30 minutes;economy;secondary;81,4;14,6;117690,4
+14364;2010-2020;middle;three and more;15-30 minutes;economy;secondary;74,6;12,4;120241,3
+14366;1980-2000;middle;two;30-60 minutes;economy;secondary;45,7;6,8;113785,6
+14367;1960-1980;first;two;15-30 minutes;economy;secondary;46,2;7,1;110389,6
+14370;1960-1980;middle;three and more;15-30 minutes;economy;secondary;58;8,5;87931
+14373;2010-2020;middle;three and more;15-30 minutes;economy;secondary;83,1;16,4;122021,7
+14375;2000-2010;middle;three and more;15-30 minutes;economy;secondary;107,6;16,8;157899,6
+14376;1960-1980;last;three and more;less than 5 minutes;economy;secondary;41,5;5,5;113253
+14377;2010-2020;middle;three and more;15-30 minutes;economy;secondary;93,4;13,6;119807,3
+14383;1980-2000;middle;one;less than 5 minutes;economy;secondary;41,4;10,1;119565,2
+14386;2010-2020;middle;one;15-30 minutes;economy;secondary;34,9;10,4;111747,9
+14388;2010-2020;middle;two;15-30 minutes;economy;secondary;77,4;19,5;120671,8
+14392;2010-2020;middle;three and more;15-30 minutes;economy;secondary;83,3;16,4;115366,1
+14395;2010-2020;middle;three and more;15-30 minutes;economy;primary;81,5;14,6;117546
+14397;2010-2020;middle;one;5-15 minutes;economy;secondary;33;10;160606,1
+14398;2010-2020;middle;two;15-30 minutes;economy;secondary;57,9;10,8;121761,7
+14399;1960-1980;last;three and more;15-30 minutes;economy;secondary;59;6;88135,6
+14400;2000-2010;middle;two;less than 5 minutes;economy;secondary;51;7;133333,3
+14401;1980-2000;last;two;5-15 minutes;economy;secondary;53;8;141509,4
+14403;2010-2020;middle;one;15-30 minutes;economy;secondary;40,5;10,8;130864,2
+14404;2010-2020;middle;one;30-60 minutes;economy;secondary;35,4;10,6;131355,9
+14408;2010-2020;middle;one;15-30 minutes;economy;secondary;32;8;131250
+14409;2000-2010;middle;one;15-30 minutes;economy;secondary;38;12;138421,1
+14410;1980-2000;middle;one;15-30 minutes;economy;secondary;46;13,4;99782,6
+14412;2010-2020;middle;one;15-30 minutes;economy;secondary;22,5;3;140444,4
+14413;2000-2010;middle;three and more;less than 5 minutes;economy;secondary;90,8;10,8;168502,2
+14414;2010-2020;middle;one;less than 5 minutes;economy;secondary;23,9;5;133514,6
+14420;2000-2010;middle;one;less than 5 minutes;economy;secondary;49,2;13;140243,9
+14423;2010-2020;middle;three and more;15-30 minutes;economy;secondary;80,9;14,6;114709,5
+14428;2010-2020;middle;two;15-30 minutes;economy;secondary;60;14;95000
+14430;2000-2010;middle;two;5-15 minutes;economy;secondary;62,8;10,8;130414
+14431;2010-2020;middle;three and more;15-30 minutes;economy;secondary;83,3;16,4;116446,6
+14432;1980-2000;middle;three and more;30-60 minutes;economy;secondary;62;12;114516,1
+14433;2010-2020;middle;one;5-15 minutes;economy;secondary;56,9;12,8;153602,8
+14434;1960-1980;first;two;less than 5 minutes;economy;secondary;49,5;6,3;104848,5
+14436;1960-1980;middle;two;less than 5 minutes;economy;secondary;44;6;111363,6
+14437;2010-2020;middle;three and more;less than 5 minutes;economy;secondary;105;16;190476,2
+14440;1960-1980;middle;two;15-30 minutes;economy;secondary;57;7;96140,4
+14441;2010-2020;middle;one;15-30 minutes;economy;secondary;39,7;10,5;129219,1
+14442;2010-2020;middle;two;15-30 minutes;economy;secondary;55,7;9,2;125134,6
+14443;2010-2020;first;three and more;15-30 minutes;economy;secondary;78,9;13,4;106590,6
+14445;1960-1980;middle;one;5-15 minutes;economy;secondary;31,2;5,6;133012,8
+14446;2010-2020;middle;three and more;15-30 minutes;economy;secondary;85,6;24,7;116355,1
+14447;1960-1980;last;one;15-30 minutes;economy;secondary;24;5;137500
+14450;1980-2000;middle;two;15-30 minutes;economy;secondary;52;7;109615,4
+14453;2010-2020;middle;two;5-15 minutes;economy;secondary;65,5;13,3;175572,5
+14454;2010-2020;middle;two;5-15 minutes;economy;secondary;48,6;10,2;148148,1
+14455;2000-2010;middle;one;15-30 minutes;economy;secondary;44,3;15;172686,2
+14458;2010-2020;middle;one;15-30 minutes;economy;secondary;37,3;8,5;121983,9
+14460;2010-2020;middle;one;15-30 minutes;economy;secondary;34;10;102941,2
+14461;2000-2010;middle;two;5-15 minutes;economy;secondary;76,4;15,3;117801
+14466;1960-1980;middle;three and more;15-30 minutes;economy;secondary;58;6;81034,5
+14470;1960-1980;first;two;5-15 minutes;economy;secondary;44;7;93181,8
+14473;2010-2020;middle;one;5-15 minutes;economy;secondary;42;10;195238,1
+14474;1960-1980;middle;two;15-30 minutes;economy;secondary;41,4;4,9;117149,8
+14476;1980-2000;middle;two;30-60 minutes;economy;secondary;45;6;110666,7
+14477;2010-2020;middle;one;15-30 minutes;economy;secondary;41,9;13,4;198090,7
+14478;1980-2000;first;three and more;15-30 minutes;economy;secondary;89;8,7;110101,1
+14481;2010-2020;middle;one;15-30 minutes;economy;secondary;34,3;10,7;106414
+14489;2010-2020;middle;one;15-30 minutes;economy;secondary;45,5;13,1;208791,2
+14491;1960-1980;middle;two;15-30 minutes;economy;secondary;45;6;98888,9
+14492;2010-2020;middle;two;15-30 minutes;economy;secondary;70;15,5;195714,3
+14495;2010-2020;middle;three and more;5-15 minutes;economy;secondary;78;12;123974,4
+14498;1960-1980;last;two;15-30 minutes;economy;secondary;44,1;6,3;97505,7
+14499;2010-2020;middle;one;less than 5 minutes;economy;secondary;26,1;5;133716,5
+14502;1960-1980;middle;two;5-15 minutes;economy;primary;52;12;96111,5
+14504;1980-2000;first;one;less than 5 minutes;economy;secondary;20,5;2;119512,2
+14524;2010-2020;middle;two;30-60 minutes;economy;secondary;56;8,7;96428,6
+14526;1960-1980;middle;three and more;5-15 minutes;economy;secondary;100,5;9,2;98507,5
+14527;2010-2020;middle;one;5-15 minutes;economy;secondary;44,8;11,6;120758,9
+14528;2010-2020;middle;two;15-30 minutes;business;secondary;72;15;115972,2
+14529;2000-2010;middle;three and more;15-30 minutes;economy;secondary;113,7;14,1;112577
+14537;2010-2020;middle;one;15-30 minutes;comfort;secondary;40;10;107500
+14543;2000-2010;middle;one;15-30 minutes;economy;secondary;44,2;12,4;151583,7
+14544;2000-2010;middle;two;15-30 minutes;economy;secondary;45;17,5;150000
+14545;2000-2010;last;three and more;15-30 minutes;economy;secondary;81;11;117284
+14549;1960-1980;middle;two;15-30 minutes;economy;secondary;45;6;105555,6
+14550;2010-2020;middle;two;15-30 minutes;economy;secondary;62,5;13,3;100640
+14551;1960-1980;last;two;5-15 minutes;economy;secondary;45,3;6,4;92715,2
+14554;1960-1980;middle;three and more;5-15 minutes;economy;secondary;62,9;6,2;111128,8
+14560;1960-1980;middle;three and more;15-30 minutes;economy;secondary;57,7;6;81455,8
+14564;2010-2020;middle;one;15-30 minutes;economy;primary;28;4;119285,7
+14566;1960-1980;middle;one;15-30 minutes;economy;secondary;31;8;119354,8
+14567;2010-2020;middle;one;5-15 minutes;comfort;secondary;37,7;15,7;153580,9
+14572;1980-2000;middle;two;less than 5 minutes;economy;secondary;52;8;141346,2
+14574;1960-1980;middle;one;5-15 minutes;economy;secondary;30,6;5,7;117320,3
+14587;2000-2010;first;one;less than 5 minutes;economy;secondary;25,8;4;116240,3
+14590;1960-1980;middle;two;less than 5 minutes;economy;secondary;45;7,2;105555,6
+14592;2010-2020;middle;one;30-60 minutes;economy;secondary;34,5;7,5;124637,7
+14593;2010-2020;middle;two;15-30 minutes;economy;secondary;57;12;87701,8
+14595;1960-1980;middle;one;15-30 minutes;economy;secondary;29,3;7;143344,7
+14596;2000-2010;middle;one;5-15 minutes;economy;secondary;47;14;134016,3
+14599;1960-1980;middle;three and more;5-15 minutes;economy;secondary;76;16;98026,3
+14601;2010-2020;middle;two;30-60 minutes;economy;secondary;65;14;101538,5
+14606;2010-2020;middle;two;15-30 minutes;economy;secondary;58;15;103086,2
+14607;2010-2020;middle;one;15-30 minutes;economy;secondary;34;10;105882,4
+14609;2010-2020;middle;one;15-30 minutes;economy;secondary;42,2;19,7;118483,4
+14610;2010-2020;middle;two;15-30 minutes;economy;secondary;59,5;10,4;110588,2
+14620;1960-1980;middle;two;30-60 minutes;economy;secondary;44,7;8,1;100671,1
+14624;2010-2020;middle;one;15-30 minutes;economy;secondary;31,4;10,1;132802,5
+14632;1980-2000;first;three and more;5-15 minutes;economy;secondary;81;9;129629,6
+14634;2010-2020;middle;one;15-30 minutes;economy;secondary;40,7;11,7;122113
+14635;2010-2020;middle;one;15-30 minutes;economy;secondary;48,7;24,3;100000
+14639;1960-1980;last;two;15-30 minutes;economy;secondary;46;6;115195,7
+14640;2010-2020;middle;two;15-30 minutes;economy;secondary;69;10;149275,4
+14642;2010-2020;middle;three and more;15-30 minutes;economy;secondary;83,2;16,4;123798,1
+14643;2010-2020;middle;one;5-15 minutes;economy;secondary;81,3;38,6;120910,2
+14646;2010-2020;middle;one;15-30 minutes;economy;secondary;28;6,4;157142,9
+14648;2010-2020;middle;one;5-15 minutes;economy;secondary;29;5;142689,7
+14653;2010-2020;middle;three and more;15-30 minutes;economy;secondary;84;14,2;67261,9
+14658;2010-2020;middle;three and more;5-15 minutes;economy;secondary;126;13;134127
+14664;1960-1980;last;three and more;5-15 minutes;economy;secondary;56;7;104464,3
+14666;1960-1980;middle;two;30-60 minutes;economy;secondary;45,5;7;102197,8
+14667;2010-2020;middle;three and more;15-30 minutes;economy;secondary;77,5;19,5;118193,5
+14671;2010-2020;middle;two;5-15 minutes;economy;secondary;60;10;136666,7
+14674;2010-2020;middle;one;5-15 minutes;comfort;secondary;39,2;9,3;155612,2
+14686;1960-1980;middle;three and more;15-30 minutes;economy;secondary;61;6,1;90163,9
+14688;1960-1980;middle;two;less than 5 minutes;economy;secondary;40,2;6,1;121641,8
+14690;2010-2020;last;one;5-15 minutes;economy;secondary;43;12,4;150930,2
+14691;1960-1980;last;two;5-15 minutes;economy;secondary;41;5,6;114390,2
+14693;2010-2020;middle;one;15-30 minutes;economy;primary;41;13;90000
+14708;2010-2020;middle;two;less than 5 minutes;economy;primary;68,3;11,2;170322,1
+14714;2010-2020;middle;one;15-30 minutes;economy;secondary;33,4;9,3;103293,4
+14716;2000-2010;first;two;5-15 minutes;economy;secondary;38;8;135526,3
+14717;2010-2020;middle;three and more;5-15 minutes;economy;secondary;94;21,5;153723,4
+14721;2010-2020;middle;one;15-30 minutes;economy;secondary;38;10;103947,4
+14722;1980-2000;middle;three and more;15-30 minutes;economy;secondary;73,2;8,5;76502,7
+14725;2000-2010;middle;one;15-30 minutes;economy;secondary;48;12,6;108166,7
+14730;1960-1980;middle;two;15-30 minutes;economy;secondary;46;7,2;109782,6
+14737;2010-2020;first;two;30-60 minutes;economy;secondary;121;19,8;87147,2
+14743;1960-1980;middle;one;5-15 minutes;economy;secondary;43;16;62790,7
+14750;1960-1980;first;three and more;30-60 minutes;economy;secondary;60,5;6,3;99173,6
+14752;2010-2020;middle;one;5-15 minutes;economy;secondary;28;3;139285,7
+14753;2010-2020;middle;one;15-30 minutes;economy;secondary;40;10;105000
+14755;2010-2020;middle;three and more;15-30 minutes;economy;secondary;83,3;16,5;115246,1
+14758;2010-2020;middle;one;15-30 minutes;economy;secondary;44,2;16;125565,6
+14761;2000-2010;middle;three and more;15-30 minutes;economy;primary;100;16;116000
+14764;2010-2020;middle;one;15-30 minutes;comfort;secondary;42;12;119047,6
+14766;2000-2010;middle;one;15-30 minutes;economy;secondary;37;8;128378,4
+14782;2010-2020;first;one;15-30 minutes;economy;secondary;34,9;9,1;118051,6
+14783;2010-2020;middle;three and more;15-30 minutes;economy;primary;88;15;82954,5
+14791;2010-2020;middle;one;15-30 minutes;economy;primary;39,6;13,8;125000
+14792;2010-2020;middle;one;15-30 minutes;economy;primary;34,3;10,3;120241,9
+14793;2010-2020;middle;two;15-30 minutes;economy;secondary;60;10,4;121666,7
+14795;2000-2010;middle;one;15-30 minutes;comfort;secondary;40,6;11,2;106000
+14796;1960-1980;middle;three and more;15-30 minutes;economy;secondary;64;7;98437,5
+14797;1960-1980;middle;two;15-30 minutes;economy;secondary;44;6;99318,2
+14798;2010-2020;middle;two;30-60 minutes;economy;secondary;60;9;103333,3
+14804;2000-2010;middle;two;5-15 minutes;business;secondary;80,4;15,4;121890,5
+14809;1960-1980;middle;two;15-30 minutes;economy;secondary;45;7;120000
+14816;2010-2020;middle;three and more;15-30 minutes;economy;secondary;100;17;100000
+14817;2010-2020;middle;one;5-15 minutes;economy;secondary;53;15;152830,2
+14818;2010-2020;middle;two;less than 5 minutes;economy;secondary;56;11;187500
+14828;1960-1980;last;two;5-15 minutes;economy;secondary;57;15;98245,6
+14830;2010-2020;middle;two;15-30 minutes;economy;primary;83;14,4;131909,6
+14839;2000-2010;middle;one;15-30 minutes;economy;secondary;36;11;127777,8
+14849;1960-1980;middle;two;5-15 minutes;economy;secondary;48,3;8,4;94202,9
+14851;2000-2010;middle;two;less than 5 minutes;economy;secondary;70,8;12,1;126553,7
+14853;2010-2020;middle;three and more;15-30 minutes;economy;secondary;85;11;78823,5
+14857;1960-1980;middle;one;5-15 minutes;economy;secondary;30,4;8,3;121710,5
+14859;1960-1980;middle;two;less than 5 minutes;economy;secondary;50;5,6;144000
+14864;2010-2020;middle;two;5-15 minutes;comfort;secondary;60;15;150000
+14877;2010-2020;middle;one;15-30 minutes;economy;secondary;27,9;5;136164,9
+14880;1960-1980;first;two;less than 5 minutes;economy;secondary;44,6;6,7;125560,5
+14885;2000-2010;middle;three and more;15-30 minutes;economy;secondary;80;10,4;102500
+14886;1960-1980;first;two;15-30 minutes;economy;secondary;60;15,7;83166,7
+14888;2010-2020;middle;three and more;15-30 minutes;economy;secondary;100,1;13,8;149850,1
+14889;2010-2020;middle;one;15-30 minutes;economy;secondary;37;9,5;126216,2
+14890;1960-1980;middle;three and more;15-30 minutes;economy;secondary;67,9;6,2;95729
+14892;2010-2020;middle;three and more;5-15 minutes;economy;primary;77,7;13,3;97812,1
+14895;2010-2020;last;one;15-30 minutes;economy;secondary;42;9,9;137619
+14896;1960-1980;middle;two;15-30 minutes;economy;secondary;46,5;7,2;102150,5
+14898;1960-1980;middle;one;15-30 minutes;economy;secondary;44,6;8,4;105381,2
+14910;1960-1980;middle;three and more;less than 5 minutes;economy;secondary;58,8;6,4;90136,1
+14911;1980-2000;middle;two;15-30 minutes;economy;secondary;50,6;7,6;102569,2
+14917;1980-2000;middle;three and more;5-15 minutes;economy;secondary;65,7;9,5;94368,3
+14921;2010-2020;middle;three and more;5-15 minutes;economy;secondary;96;14;187500
+14927;2010-2020;middle;one;15-30 minutes;economy;primary;26;5;67307,7
+14929;1960-1980;middle;one;15-30 minutes;economy;secondary;30;6;116666,7
+14932;1960-1980;middle;two;5-15 minutes;economy;secondary;44,7;6;107382,6
+14936;2010-2020;middle;one;30-60 minutes;economy;secondary;36;9,5;111111,1
+14937;2000-2010;middle;three and more;15-30 minutes;economy;secondary;94;18;127659,6
+14941;2000-2010;middle;one;5-15 minutes;economy;secondary;35;10;140000
+14942;2000-2010;middle;one;15-30 minutes;economy;secondary;34,5;10,6;124637,7
+14943;1960-1980;middle;two;less than 5 minutes;economy;secondary;43,7;6,6;127002,3
+14947;1980-2000;first;three and more;5-15 minutes;economy;secondary;60,7;8,9;92257
+14951;2010-2020;middle;one;30-60 minutes;economy;secondary;40;11;122500
+14952;2000-2010;middle;one;15-30 minutes;economy;secondary;44,8;11,5;111383,9
+14954;2000-2010;middle;one;less than 5 minutes;economy;secondary;26;3,1;145769,2
+14956;1960-1980;middle;three and more;15-30 minutes;economy;secondary;84;11;109404,8
+14957;1980-2000;middle;two;5-15 minutes;economy;secondary;57;20;97368,4
+14959;1960-1980;middle;two;less than 5 minutes;economy;secondary;45,3;6;116777
+14960;1960-1980;middle;three and more;30-60 minutes;economy;secondary;62,1;8,1;104669,9
+14961;1960-1980;middle;two;5-15 minutes;economy;secondary;42;5,5;104761,9
+14962;2010-2020;middle;two;15-30 minutes;economy;secondary;58,8;12;111615,6
+14970;1980-2000;middle;three and more;15-30 minutes;economy;secondary;71,6;11;88687,2
+14973;1960-1980;last;three and more;5-15 minutes;economy;secondary;57;7;101754,4
+14982;2010-2020;middle;one;15-30 minutes;economy;secondary;27,3;19;150183,2
+14985;2010-2020;middle;one;15-30 minutes;comfort;secondary;40,6;9,4;150000
+14998;2000-2010;middle;two;15-30 minutes;economy;secondary;61,1;12;111293
+15003;2010-2020;middle;one;15-30 minutes;economy;secondary;36,8;10,4;135869,6
+15011;1980-2000;middle;three and more;30-60 minutes;economy;secondary;86;15;87209,3
+15020;2000-2010;middle;one;15-30 minutes;economy;secondary;41;12,6;126829,3
+15024;1960-1980;first;three and more;5-15 minutes;economy;secondary;58;6;78448,3
+15027;1960-1980;first;three and more;15-30 minutes;economy;secondary;66;9,8;77272,7
+15034;1960-1980;middle;one;5-15 minutes;economy;secondary;30;6,7;143333,3
+15036;1960-1980;last;two;5-15 minutes;economy;secondary;41,8;5;112440,2
+15042;1980-2000;middle;one;5-15 minutes;economy;secondary;39;10,2;123076,9
+15052;2000-2010;middle;one;15-30 minutes;economy;secondary;46,6;12,6;101995,7
+15053;1960-1980;middle;two;15-30 minutes;economy;secondary;45;4,5;95555,6
+15054;1960-1980;middle;one;5-15 minutes;economy;secondary;32;8;128125
+15059;2000-2010;middle;one;15-30 minutes;economy;secondary;44;11;138636,4
+15066;1960-1980;first;three and more;less than 5 minutes;economy;secondary;62;7;145161,3
+15077;1980-2000;last;three and more;5-15 minutes;economy;secondary;72,4;8,4;101519,3
+15079;2010-2020;middle;one;30-60 minutes;economy;secondary;25,7;5;103112,8
+15080;1960-1980;middle;two;15-30 minutes;economy;secondary;45;6;93333,3
+15082;1980-2000;middle;three and more;30-60 minutes;economy;secondary;65;7,4;90769,2
+15083;1980-2000;middle;three and more;15-30 minutes;economy;secondary;66,6;9;102102,1
+15094;2000-2010;middle;two;less than 5 minutes;economy;secondary;70;18;157000
+15102;2000-2010;first;three and more;5-15 minutes;economy;secondary;87,6;11,7;114155,3
+15110;1960-1980;middle;one;15-30 minutes;economy;secondary;32;10;118750
+15119;1960-1980;first;two;15-30 minutes;economy;secondary;44;6;93181,8
+15128;2010-2020;middle;three and more;15-30 minutes;comfort;secondary;72,7;13,3;114993,1
+15129;2010-2020;middle;two;15-30 minutes;economy;secondary;60;11,6;72500
+15134;2000-2010;middle;two;less than 5 minutes;economy;secondary;86,6;12,6;158198,6
+15135;2000-2010;middle;two;15-30 minutes;economy;secondary;74,8;13;117647,1
+15136;1960-1980;last;three and more;5-15 minutes;economy;secondary;49;5,3;82653,1
+15144;1980-2000;first;one;30-60 minutes;economy;secondary;43,1;6,6;109048,7
+15145;2010-2020;middle;three and more;15-30 minutes;economy;secondary;90,1;15;101553,8
+15147;2010-2020;middle;one;15-30 minutes;economy;secondary;37,5;10,1;117333,3
+15158;2000-2010;middle;one;15-30 minutes;economy;secondary;40,7;11;138820,6
+15167;2010-2020;middle;two;less than 5 minutes;economy;secondary;60;11;209166,7
+15168;2010-2020;middle;one;15-30 minutes;economy;secondary;39;11;92307,7
+15169;2010-2020;middle;two;15-30 minutes;economy;secondary;47,3;12;104651,2
+15173;1960-1980;middle;one;5-15 minutes;economy;secondary;44;15;114772,7
+15175;2010-2020;middle;one;15-30 minutes;economy;secondary;24,5;4;114081,6
+15179;2000-2010;middle;two;15-30 minutes;economy;secondary;68;9;133088,2
+15185;1980-2000;last;one;15-30 minutes;economy;secondary;42;14;82142,9
+15190;2010-2020;first;one;15-30 minutes;economy;secondary;35;10,5;111428,6
+15197;1960-1980;middle;one;15-30 minutes;economy;secondary;30,8;6;136363,6
+15200;2010-2020;middle;one;15-30 minutes;economy;secondary;22,5;3;146666,7
+15205;2010-2020;middle;two;15-30 minutes;economy;secondary;60;12;90833,3
+15207;1980-2000;middle;three and more;15-30 minutes;economy;secondary;94,3;14,7;89077,4
+15208;2010-2020;middle;one;30-60 minutes;economy;primary;36,4;10,4;135989
+15211;2010-2020;first;one;5-15 minutes;economy;secondary;29,7;5,7;117845,1
+15213;2010-2020;middle;one;30-60 minutes;economy;primary;33,1;10,4;135951,7
+15217;2010-2020;middle;one;15-30 minutes;economy;primary;36;13;88611,1
+15218;1960-1980;first;three and more;15-30 minutes;economy;secondary;57,5;6;89565,2
+15222;2000-2010;middle;three and more;15-30 minutes;comfort;secondary;118;13,6;122881,4
+15224;1960-1980;first;one;less than 5 minutes;economy;secondary;29,1;5,5;120274,9
+15225;2010-2020;middle;one;15-30 minutes;economy;secondary;45;17;96666,7
+15227;1960-1980;middle;three and more;15-30 minutes;economy;secondary;77;7,9;97402,6
+15228;1960-1980;middle;one;5-15 minutes;economy;secondary;31;6;145161,3
+15233;1960-1980;middle;two;5-15 minutes;economy;secondary;44,8;5,5;116071,4
+15236;2010-2020;middle;one;15-30 minutes;economy;secondary;47,1;21;132696,4
+15239;1980-2000;middle;three and more;5-15 minutes;economy;secondary;67,4;8,2;106824,9
+15247;2000-2010;middle;two;30-60 minutes;economy;secondary;51,2;8;126953,1
+15249;2000-2010;middle;three and more;15-30 minutes;economy;secondary;100,6;11,9;124254,5
+15250;2010-2020;middle;one;15-30 minutes;economy;secondary;25;5;115960
+15267;1960-1980;middle;two;15-30 minutes;economy;secondary;50;7;102000
+15268;2010-2020;middle;two;15-30 minutes;economy;secondary;57,7;10,7;119410,7
+15269;2010-2020;middle;one;15-30 minutes;economy;secondary;36,3;5;123057,9
+15273;2010-2020;middle;one;15-30 minutes;economy;primary;24;5;119583,3
+15279;2010-2020;middle;one;15-30 minutes;economy;secondary;40;10,4;134750
+15287;2010-2020;first;two;15-30 minutes;economy;secondary;52,7;9,4;110626,2
+15288;1980-2000;middle;three and more;15-30 minutes;economy;secondary;72;8,3;110416,7
+15290;2010-2020;middle;two;15-30 minutes;economy;secondary;57,8;10,8;120934,3
+15297;1960-1980;middle;three and more;5-15 minutes;economy;secondary;57;6;109649,1
+15299;2010-2020;middle;one;15-30 minutes;economy;secondary;39,2;10,4;129336,7
+15302;2010-2020;middle;two;5-15 minutes;economy;secondary;56,4;11;109574,5
+15304;2010-2020;middle;one;15-30 minutes;economy;secondary;39,7;11,5;120403
+15306;2010-2020;middle;three and more;15-30 minutes;economy;secondary;81,4;14,6;118550,4
+15308;2010-2020;middle;two;15-30 minutes;economy;secondary;81;30;179012,3
+15309;2010-2020;middle;one;30-60 minutes;economy;primary;37,8;10,5;100000
+15311;2010-2020;middle;one;30-60 minutes;economy;primary;32;10;110937,5
+15314;1960-1980;middle;three and more;15-30 minutes;economy;secondary;81;15;108024,7
+15316;2010-2020;middle;three and more;15-30 minutes;economy;primary;83,4;16,4;117506
+15317;2010-2020;middle;two;15-30 minutes;economy;secondary;60,5;10,8;114545,5
+15318;1980-2000;middle;two;30-60 minutes;economy;secondary;51,6;9,8;98837,2
+15319;1960-1980;first;two;30-60 minutes;economy;secondary;47;6,4;90425,5
+15332;2010-2020;middle;one;5-15 minutes;economy;secondary;34;10,5;136764,7
+15334;1960-1980;middle;three and more;15-30 minutes;economy;secondary;60,7;6,3;98846,8
+15336;2010-2020;middle;one;15-30 minutes;economy;secondary;42,1;11,1;129453,7
+15340;2010-2020;middle;one;15-30 minutes;economy;secondary;29,7;5,5;126599,3
+15345;1960-1980;middle;three and more;15-30 minutes;economy;secondary;58;7;99137,9
+15346;2010-2020;middle;one;15-30 minutes;economy;secondary;46,5;13;116129
+15347;2000-2010;middle;one;15-30 minutes;economy;secondary;42;12;116666,7
+15349;1960-1980;middle;two;5-15 minutes;economy;secondary;45;5;115555,6
+15352;2010-2020;middle;one;15-30 minutes;economy;primary;26,3;5,4;125855,5
+15357;2010-2020;middle;one;15-30 minutes;economy;secondary;39,5;7,2;118987,3
+15360;2010-2020;middle;one;15-30 minutes;economy;secondary;41,9;12,3;198090,7
+15367;1960-1980;first;three and more;5-15 minutes;economy;secondary;53;5,1;131132,1
+15370;2010-2020;middle;one;15-30 minutes;economy;secondary;41,1;11,7;122384,4
+15381;2010-2020;middle;one;15-30 minutes;economy;secondary;41;11,7;120243,9
+15382;1960-1980;first;three and more;5-15 minutes;economy;secondary;88,2;8,9;90691,6
+15385;1980-2000;middle;three and more;less than 5 minutes;economy;secondary;84,3;10,2;142348,8
+15389;2010-2020;middle;three and more;15-30 minutes;economy;secondary;82,9;16,4;123039,8
+15394;2010-2020;middle;one;15-30 minutes;economy;primary;31,8;8,2;97484,3
+15414;2010-2020;middle;two;30-60 minutes;comfort;secondary;52,1;14;115163,1
+15420;1980-2000;middle;three and more;5-15 minutes;economy;secondary;76,1;8,1;111695,1
+15421;1980-2000;middle;one;5-15 minutes;economy;secondary;36,1;7,4;120498,6
+15425;2010-2020;middle;three and more;15-30 minutes;economy;primary;87,4;13,8;79707
+15426;2010-2020;middle;two;30-60 minutes;economy;primary;66,1;17,5;90771,6
+15431;2010-2020;middle;one;15-30 minutes;economy;primary;39,9;13;94925,5
+15432;2010-2020;middle;two;15-30 minutes;economy;primary;62,6;10,2;87893,9
+15433;1960-1980;middle;two;5-15 minutes;economy;primary;53,3;13;78424
+15455;1980-2000;middle;two;30-60 minutes;economy;secondary;55;12;110000
+15456;2000-2010;middle;two;less than 5 minutes;economy;secondary;95,1;18,2;168000
+15458;2000-2010;middle;one;less than 5 minutes;economy;secondary;54,3;13,7;173000
+15459;2000-2010;middle;three and more;15-30 minutes;economy;secondary;105;12,7;91495,2
+15460;2010-2020;middle;one;15-30 minutes;economy;secondary;41;10;95122
+15461;2000-2010;middle;two;less than 5 minutes;economy;secondary;102,4;14,4;163000
+15462;2000-2010;last;one;less than 5 minutes;economy;secondary;55,4;14,1;175000
+15463;2000-2010;middle;three and more;less than 5 minutes;economy;secondary;123,4;10,7;158000
+15476;2000-2010;middle;three and more;15-30 minutes;economy;secondary;105;12,7;91500
+15477;1980-2000;middle;two;5-15 minutes;economy;secondary;52,3;7,4;100956
+15487;2010-2020;middle;one;15-30 minutes;economy;secondary;41;9;109756,1
+15494;1960-1980;last;three and more;5-15 minutes;economy;secondary;41,4;5,3;92512,1
+15497;2010-2020;middle;one;15-30 minutes;economy;secondary;34;11;91176,5
+15502;1960-1980;middle;three and more;15-30 minutes;economy;secondary;57,1;5,8;94570,9
+15505;2000-2010;middle;one;15-30 minutes;economy;secondary;57,6;12;121354,2
+15507;1960-1980;middle;one;15-30 minutes;economy;secondary;28;6;117857,1
+15508;2010-2020;middle;three and more;15-30 minutes;economy;secondary;88;12;63863,6
+15509;2010-2020;middle;one;15-30 minutes;economy;secondary;32;8,2;107812,5
+15511;2010-2020;middle;one;15-30 minutes;economy;secondary;41;9;98780,5
+15521;2010-2020;middle;three and more;15-30 minutes;economy;secondary;92,8;24,2;130819
+15522;2010-2020;middle;one;30-60 minutes;economy;secondary;33;10;136363,6
+15527;1960-1980;middle;two;less than 5 minutes;economy;secondary;43,7;6,6;124714
+15534;1960-1980;first;three and more;15-30 minutes;economy;secondary;59,7;6,8;103852,6
+15537;1960-1980;middle;three and more;5-15 minutes;economy;secondary;58;5,5;103448,3
+15547;2010-2020;middle;one;15-30 minutes;economy;secondary;28,5;5;124660
+15555;2010-2020;middle;three and more;30-60 minutes;economy;secondary;80;14;90000
+15558;2010-2020;middle;two;5-15 minutes;economy;secondary;72;16;118055,6
+15563;1960-1980;middle;three and more;15-30 minutes;economy;secondary;42;5;84523,8
+15573;1960-1980;middle;three and more;less than 5 minutes;economy;secondary;48,4;5,5;90909,1
+15578;1960-1980;first;two;15-30 minutes;economy;secondary;55;8;107272,7
+15584;1960-1980;first;two;5-15 minutes;economy;secondary;46,3;7,2;79913,6
+15587;1960-1980;last;three and more;30-60 minutes;economy;secondary;60;6;85833,3
+15593;2010-2020;middle;one;less than 5 minutes;economy;secondary;35;9;125714,3
+15598;1960-1980;middle;three and more;30-60 minutes;economy;secondary;56;7;83928,6
+15611;2010-2020;middle;one;15-30 minutes;economy;secondary;36;11;117638,9
+15612;2010-2020;middle;one;15-30 minutes;economy;secondary;36;9,5;141666,7
+15614;1980-2000;first;three and more;5-15 minutes;economy;secondary;77;11;103766,2
+15624;2010-2020;middle;one;15-30 minutes;economy;primary;34;10;97058,8
+15627;1960-1980;last;one;15-30 minutes;economy;secondary;32;5,7;112468,8
+15630;2000-2010;middle;two;15-30 minutes;economy;secondary;71;13;95774,6
+15634;2010-2020;middle;one;30-60 minutes;economy;secondary;36,6;8,1;95355,2
+15646;1960-1980;last;three and more;5-15 minutes;economy;secondary;66;6,2;83333,3
+15671;2000-2010;middle;three and more;30-60 minutes;economy;secondary;88;11;107954,5
+15681;2000-2010;middle;three and more;15-30 minutes;economy;secondary;91;12;179120,9
+15684;2000-2010;middle;three and more;15-30 minutes;economy;secondary;96;12;110416,7
+15689;1960-1980;middle;two;less than 5 minutes;economy;secondary;45;6,7;105555,6
+15690;1960-1980;last;three and more;5-15 minutes;economy;secondary;56;7,2;100000
+15692;1960-1980;middle;one;30-60 minutes;economy;secondary;35;8;112857,1
+15697;1980-2000;middle;three and more;15-30 minutes;economy;secondary;74;7;87837,8
+15703;2010-2020;first;one;15-30 minutes;economy;secondary;35,5;9;102816,9
+15722;1960-1980;first;two;30-60 minutes;economy;secondary;42,2;5;89573,5
+15724;1980-2000;middle;three and more;15-30 minutes;economy;secondary;94,4;15;94279,7
+15725;2010-2020;first;two;15-30 minutes;economy;secondary;79;12;87341,8
+15728;1980-2000;middle;one;15-30 minutes;economy;secondary;45;13,4;98888,9
+15733;2000-2010;middle;one;30-60 minutes;economy;secondary;43;11,8;122093
+15734;1960-1980;middle;three and more;15-30 minutes;economy;secondary;77;9;136363,6
+15760;2010-2020;middle;one;15-30 minutes;comfort;secondary;38;10,5;110526,3
+15766;1980-2000;middle;three and more;15-30 minutes;economy;secondary;71,3;8,1;106591,9
+15773;2010-2020;middle;one;30-60 minutes;economy;primary;57,4;14,8;94929,2
+15797;2000-2010;middle;three and more;15-30 minutes;economy;secondary;91;16;153846,2
+15828;1960-1980;middle;two;less than 5 minutes;economy;secondary;50;7;90000
+15844;2010-2020;middle;one;15-30 minutes;economy;secondary;35,1;10,7;113960,1
+15845;2010-2020;middle;two;15-30 minutes;economy;secondary;59,8;13,6;100334,4
+15850;2010-2020;middle;three and more;5-15 minutes;economy;secondary;109;15;123853,2
+15856;2010-2020;middle;one;15-30 minutes;economy;secondary;39;10;84615,4
+15857;2010-2020;middle;two;15-30 minutes;economy;secondary;59,2;12,6;64189,2
+15859;2010-2020;middle;three and more;15-30 minutes;economy;secondary;82;15;60853,7
+15861;2010-2020;middle;one;15-30 minutes;economy;primary;23;6;73913
+15870;2010-2020;middle;two;15-30 minutes;economy;secondary;60,5;10,4;119008,3
+15874;2010-2020;middle;three and more;30-60 minutes;economy;secondary;103,7;15;71841,9
+15891;1960-1980;first;one;less than 5 minutes;economy;secondary;31,5;5,2;126984,1
+15902;2010-2020;middle;one;30-60 minutes;economy;secondary;32,9;7,5;126139,8
+15903;2010-2020;middle;one;30-60 minutes;economy;secondary;32,9;7,5;127659,6
+15904;1960-1980;middle;two;15-30 minutes;economy;secondary;46,7;7;96359,7
+15910;2010-2020;middle;three and more;30-60 minutes;economy;secondary;89;10;101123,6
+15917;2000-2010;last;two;15-30 minutes;economy;secondary;61;9,2;126229,5
+15919;2010-2020;middle;one;15-30 minutes;economy;primary;35,7;10,5;112031,4
+15933;2010-2020;middle;one;15-30 minutes;economy;secondary;36,5;9,6;115068,5
+15957;1980-2000;middle;one;5-15 minutes;economy;secondary;39;8;112564,1
+15968;1960-1980;middle;one;15-30 minutes;economy;primary;38,3;17,4;94401,3
+15971;1960-1980;middle;one;15-30 minutes;economy;primary;38,3;17,4;94386,4
+15972;2000-2010;middle;one;5-15 minutes;economy;primary;35,3;11,1;88866,9
+15984;2010-2020;middle;three and more;15-30 minutes;economy;secondary;116;18;108620,7
+15997;2000-2010;middle;two;less than 5 minutes;economy;secondary;59,9;10,4;116861,4
+15998;2010-2020;middle;one;15-30 minutes;economy;secondary;41;9;84146,3
+16000;1980-2000;middle;one;15-30 minutes;economy;secondary;44,7;13,2;105816,6
+16016;1960-1980;middle;one;15-30 minutes;economy;secondary;36;8;108333,3
+16017;2010-2020;middle;one;15-30 minutes;economy;secondary;45;12;87777,8
+16019;2010-2020;middle;two;15-30 minutes;economy;primary;72;16;124305,6
+16021;2010-2020;middle;one;15-30 minutes;economy;primary;26,7;5;131086,1
+16031;1980-2000;middle;three and more;15-30 minutes;economy;secondary;71,5;7;79720,3
+16035;1960-1980;middle;one;15-30 minutes;economy;primary;43,5;15;92965,5
+16746;2010-2020;middle;one;15-30 minutes;economy;primary;25,5;5,4;96078,4
+18171;1960-1980;last;one;60-90 minutes;economy;secondary;32,2;5,6;88198,8
+18767;2010-2020;middle;one;60-90 minutes;economy;secondary;32;5;92187,5
+63670;2000-2010;middle;three and more;60-90 minutes;economy;secondary;103;20;121359,2
+63671;2010-2020;middle;three and more;60-90 minutes;economy;secondary;85,6;11,5;146028
+63672;2000-2010;middle;three and more;15-30 minutes;economy;secondary;85,5;12,3;146198,8
+63888;2010-2020;middle;two;less than 5 minutes;comfort;secondary;79,7;18;158720,2
+63889;2010-2020;middle;three and more;15-30 minutes;economy;secondary;113,6;12,1;110959,5
+63890;2000-2010;last;three and more;15-30 minutes;economy;secondary;115;10;110000
+63978;2010-2020;middle;two;less than 5 minutes;comfort;secondary;83,4;14,5;153477,2
+64041;1980-2000;middle;three and more;60-90 minutes;economy;secondary;107,2;8,4;119869,4
+64042;2010-2020;middle;three and more;15-30 minutes;economy;primary;115,7;12,1;110732
+64043;2010-2020;middle;two;60-90 minutes;economy;primary;92,1;23;139522,3
+64078;2000-2010;middle;three and more;less than 5 minutes;economy;secondary;114,3;30,3;112860,9
+64079;2010-2020;middle;two;60-90 minutes;economy;primary;92,4;23,1;139610,4
+64080;2010-2020;middle;three and more;60-90 minutes;economy;secondary;95,3;14,5;134889,8
+64187;2010-2020;middle;two;15-30 minutes;economy;primary;76;31;171052,6
+64188;2000-2010;middle;three and more;15-30 minutes;economy;secondary;95,6;14,4;135878,7
+64190;2010-2020;middle;three and more;60-90 minutes;economy;secondary;88,2;12,4;147278,9
+64191;2010-2020;middle;three and more;5-15 minutes;economy;secondary;87,2;14,5;148555
+64296;2010-2020;middle;three and more;5-15 minutes;economy;secondary;87,2;15,4;149656
+64297;2010-2020;middle;three and more;60-90 minutes;economy;primary;103,2;12,6;126349,8
+64315;2000-2010;last;three and more;5-15 minutes;economy;secondary;95;15;137894,7
+64316;2010-2020;middle;two;5-15 minutes;economy;secondary;75,8;18,9;172823,2
+64334;2010-2020;middle;two;60-90 minutes;economy;primary;97,2;19,9;135000
+64352;2000-2010;middle;three and more;5-15 minutes;economy;secondary;126,1;17,3;104678,8
+64353;2010-2020;middle;three and more;15-30 minutes;economy;secondary;106,3;18;124176,9
+64392;2000-2010;middle;three and more;15-30 minutes;economy;secondary;96,1;14;138397,5
+64442;2010-2020;middle;three and more;15-30 minutes;economy;secondary;78;25;171794,9
+64486;2010-2020;middle;two;less than 5 minutes;economy;secondary;82,8;17,7;163043,5
+64488;2000-2010;middle;three and more;15-30 minutes;economy;secondary;112,7;32;119787
+64489;2010-2020;middle;three and more;less than 5 minutes;economy;secondary;80,5;11,9;167453,4
+64644;2010-2020;middle;two;60-90 minutes;economy;secondary;100,5;41,3;136074,6
+64672;2000-2010;middle;three and more;15-30 minutes;economy;secondary;96,3;12;142783
+64673;2010-2020;middle;two;60-90 minutes;economy;primary;101,8;42;135000
+64674;2010-2020;middle;two;60-90 minutes;economy;primary;101,8;42;135000
+64692;2010-2020;middle;two;5-15 minutes;economy;secondary;76,6;10,9;179634,5
+64794;2010-2020;middle;two;5-15 minutes;economy;secondary;79,4;17,9;175692,7
+64808;2010-2020;middle;three and more;60-90 minutes;economy;secondary;97,8;13,8;143149,3
+65089;2000-2010;middle;three and more;5-15 minutes;economy;secondary;103,9;15;139076
+65103;2010-2020;middle;three and more;15-30 minutes;economy;secondary;79,1;25,5;183312,3
+65233;2010-2020;last;three and more;15-30 minutes;economy;secondary;86,6;36,1;170900,7
+65260;2010-2020;middle;three and more;15-30 minutes;comfort;secondary;106;15;140566
+65302;2000-2010;middle;three and more;60-90 minutes;economy;secondary;96,6;17;155176
+65464;2010-2020;middle;three and more;5-15 minutes;economy;secondary;106,3;18;144873
+65540;2010-2020;middle;two;5-15 minutes;economy;secondary;85,2;14,5;182511,7
+65614;2000-2010;middle;three and more;less than 5 minutes;economy;secondary;119,4;12,6;132747,1
+65620;2000-2010;middle;three and more;5-15 minutes;economy;secondary;91,1;16,2;174533,5
+65652;2010-2020;middle;three and more;5-15 minutes;economy;primary;117,7;19,9;135514
+65669;2000-2010;middle;three and more;60-90 minutes;economy;secondary;112;10,2;142857,1
+65670;2010-2020;middle;three and more;60-90 minutes;economy;primary;128,8;34,3;124223,6
+65833;2010-2020;middle;three and more;less than 5 minutes;economy;secondary;106,5;17,6;154929,6
+65907;2010-2020;middle;two;15-30 minutes;economy;secondary;79;26;212658,2
+65908;2000-2010;last;three and more;5-15 minutes;economy;secondary;104;14;161538,5
+66054;2010-2020;middle;three and more;60-90 minutes;economy;primary;121,4;16,5;142092,3
+66111;2000-2010;middle;two;5-15 minutes;economy;secondary;86;15;203488,4
+66164;2010-2020;middle;three and more;60-90 minutes;economy;primary;124,6;19,8;141000
+66298;2010-2020;middle;two;30-60 minutes;economy;secondary;115,3;42,3;156548,1
+66315;2000-2010;middle;three and more;60-90 minutes;economy;primary;115,4;16;157712,3
+66378;2000-2010;middle;three and more;5-15 minutes;economy;primary;127,4;28,6;145211,9
+66491;2010-2020;middle;three and more;5-15 minutes;economy;secondary;104;17,3;182692,3
+66561;2010-2020;middle;three and more;15-30 minutes;economy;primary;109;20;178899,1
+66576;2010-2020;middle;three and more;5-15 minutes;economy;primary;127,3;23,2;153500
+66627;2010-2020;middle;three and more;15-30 minutes;economy;secondary;129,8;51,3;153466,9
+66633;2000-2010;last;three and more;15-30 minutes;economy;secondary;116,5;20;171673,8
+66657;2010-2020;last;two;5-15 minutes;economy;primary;124,4;25,6;161000
+66658;2010-2020;last;three and more;less than 5 minutes;economy;secondary;129,8;20;154468,4
+66669;2010-2020;middle;three and more;less than 5 minutes;comfort;secondary;128,4;18,2;156931,5
+66676;2010-2020;middle;three and more;15-30 minutes;economy;secondary;103;16,2;195708,7
+66685;2000-2010;middle;three and more;5-15 minutes;economy;secondary;105;12;193333,3
+66896;2010-2020;middle;three and more;60-90 minutes;economy;secondary;120;18,7;214583,3
+92035;2010-2020;middle;two;30-60 minutes;comfort;primary;63;20,7;113492,1
+92199;2010-2020;middle;one;30-60 minutes;economy;primary;39,4;8,6;97715,7
+92200;2010-2020;middle;three and more;30-60 minutes;economy;primary;79;13;87974,7
+92201;2010-2020;middle;two;30-60 minutes;economy;primary;53,1;9,2;88512,2
+92202;2010-2020;middle;one;30-60 minutes;economy;primary;31;7,1;104838,7
+92249;2010-2020;first;one;15-30 minutes;economy;primary;41,7;11;112470
+92267;2010-2020;middle;one;60-90 minutes;economy;primary;46,3;11,6;88552,9
+92271;2010-2020;middle;one;15-30 minutes;comfort;primary;35,4;10,2;155367,2
+92272;2010-2020;middle;one;15-30 minutes;comfort;primary;34,6;17,9;137283,2
+92273;2010-2020;middle;one;15-30 minutes;comfort;primary;39;10,4;126923,1
+92274;2010-2020;middle;two;60-90 minutes;economy;primary;64,1;18;84555,4
+92275;2010-2020;middle;one;60-90 minutes;economy;primary;46,3;11,6;97624,2
+92276;2010-2020;middle;one;15-30 minutes;comfort;primary;36,2;8,6;123480,7
+92277;2010-2020;middle;one;5-15 minutes;comfort;primary;42,4;20,9;198113,2
+92278;2010-2020;last;one;5-15 minutes;comfort;primary;40,8;10;171568,6
+92280;2010-2020;middle;one;5-15 minutes;economy;primary;33,6;13,2;141666,7
+92282;2010-2020;middle;one;30-60 minutes;economy;primary;37,4;9,3;95695,2
+92283;2010-2020;middle;one;15-30 minutes;comfort;primary;47,2;18,6;172669,5
+92284;2010-2020;middle;one;5-15 minutes;comfort;primary;45;11,6;153333,3
+92285;2010-2020;middle;one;30-60 minutes;economy;primary;35;10,5;100000
+92290;2010-2020;middle;one;15-30 minutes;economy;primary;41;12,6;96097,6
+92291;2010-2020;middle;two;15-30 minutes;comfort;primary;58,2;9,4;129725,1
+92292;2010-2020;middle;one;15-30 minutes;comfort;primary;37,7;9,5;127851,5
+92293;2010-2020;middle;two;5-15 minutes;comfort;primary;65,4;14,4;148318
+92294;2010-2020;middle;two;30-60 minutes;economy;primary;53,2;8,8;94736,8
+92296;2010-2020;middle;three and more;15-30 minutes;comfort;primary;83,6;19,2;114114,8
+92297;2010-2020;middle;one;60-90 minutes;economy;primary;42,3;11,4;95035,5
+92298;2010-2020;middle;one;60-90 minutes;economy;primary;41,8;10,9;100956,9
+92301;2010-2020;middle;three and more;15-30 minutes;comfort;primary;86,7;19,2;117185,7
+92326;2010-2020;middle;two;5-15 minutes;economy;primary;59,5;12,2;96032,3
+93151;2010-2020;middle;two;15-30 minutes;economy;primary;52,9;9,2;115311,9
+93393;2010-2020;middle;two;15-30 minutes;comfort;primary;62,7;17;110047,8
+93394;2010-2020;middle;one;15-30 minutes;economy;primary;25;5;147600
+93395;2010-2020;middle;one;15-30 minutes;economy;primary;32,2;10;124192,5
+93399;2010-2020;middle;two;5-15 minutes;economy;primary;65;13,5;73230,8
+93400;2010-2020;middle;one;15-30 minutes;economy;primary;28,8;2;98958,3
+93404;2010-2020;middle;two;30-60 minutes;economy;primary;64;13;87500
+93407;2010-2020;middle;one;30-60 minutes;economy;primary;29,6;3;101351,4
+93519;2010-2020;middle;three and more;less than 5 minutes;comfort;primary;75,8;15,5;158839,1
+93520;2010-2020;last;two;15-30 minutes;comfort;primary;97,1;19,5;123254,4
+93521;2010-2020;middle;three and more;5-15 minutes;business;primary;96,4;22,3;200967,4
+93522;2010-2020;middle;three and more;60-90 minutes;comfort;primary;95;15;119070
+93524;2010-2020;middle;one;5-15 minutes;comfort;primary;44,9;12,2;154005,6
+93544;2010-2020;middle;two;5-15 minutes;comfort;primary;73,6;21,8;128688,7
